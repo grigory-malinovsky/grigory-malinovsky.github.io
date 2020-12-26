@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="/images/IMG_5962_2.JPG" alt="IMG_5962_2" width="200"/>
 
-![IMG_5962.JPG](/images/IMG_5962_2.JPG)
 
 About me
 ======
