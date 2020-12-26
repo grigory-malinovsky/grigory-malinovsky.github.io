@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![IMG_5962.JPG](/images/IMG_5962.JPG)
 
 About me
 ======
