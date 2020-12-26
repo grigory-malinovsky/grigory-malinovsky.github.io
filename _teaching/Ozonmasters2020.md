@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Ozonmasters2020
 venue: "OzonMasters"
-date: 
+date: 2014-01-01
 location: "Moscow, Russia"
 ---
 
