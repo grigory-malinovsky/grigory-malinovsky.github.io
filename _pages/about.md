@@ -14,6 +14,8 @@ About me
 ======
 I am an MS/PhD student in Applied Mathematics and Computational Science at King Abdullah University of Science and Technology, advised by [Prof. Peter Richtárik](https://richtarik.org), working on optimization theory and its applications in Machine Learning.
 
+My research interest
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
