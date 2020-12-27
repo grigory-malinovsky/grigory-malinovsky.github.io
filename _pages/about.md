@@ -16,14 +16,13 @@ I am an MS/PhD student in Applied Mathematics and Computational Science at King 
 
 My research interests lie in the intersection of optimization and machine learning. I am interested in stochastic optimization, randomized and distributed optimization methods and federated learning.
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+MS/PhD in Applied Mathematics and Computational Science 
+Computer, Electrical and Mathematical Sciences and Engineering Division 
+King Abdullah University of Science and Technology (KAUST)
+Sept. 2020 -- Present Thuwal, Saudi Arabia
+Advisor: [https://richtarik.org](Peter Richtárik)
 
 Site-wide configuration
 ------
