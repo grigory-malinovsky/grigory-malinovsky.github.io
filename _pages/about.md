@@ -22,7 +22,7 @@ MS/PhD in Applied Mathematics and Computational Science
 Computer, Electrical and Mathematical Sciences and Engineering Division  
 King Abdullah University of Science and Technology (KAUST)  
 Sept. 2020 -- Present Thuwal, Saudi Arabia  
-Advisor: [https://richtarik.org](Peter Richtárik)
+Advisor: [Peter Richtárik](https://richtarik.org)
 
 Site-wide configuration
 ------
