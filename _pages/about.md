@@ -18,10 +18,10 @@ My research interests lie in the intersection of optimization and machine learni
 
 Education
 ======
-MS/PhD in Applied Mathematics and Computational Science 
-Computer, Electrical and Mathematical Sciences and Engineering Division 
-King Abdullah University of Science and Technology (KAUST)
-Sept. 2020 -- Present Thuwal, Saudi Arabia
+MS/PhD in Applied Mathematics and Computational Science  
+Computer, Electrical and Mathematical Sciences and Engineering Division  
+King Abdullah University of Science and Technology (KAUST)  
+Sept. 2020 -- Present Thuwal, Saudi Arabia  
 Advisor: [https://richtarik.org](Peter Richtárik)
 
 Site-wide configuration
