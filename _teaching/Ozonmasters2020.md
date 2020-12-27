@@ -1,9 +1,9 @@
 ---
 title: "Optimization Methods - 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/Ozonmasters2020
-venue: "OzonMasters"
+venue: "OzonMasters, Spring"
 date: 2020-02-01
 location: "Moscow, Russia"
 ---
