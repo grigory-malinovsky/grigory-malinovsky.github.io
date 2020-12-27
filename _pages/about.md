@@ -16,7 +16,9 @@ I am an MS/PhD student in Applied Mathematics and Computational Science at King 
 
 My research interests lie in the intersection of optimization and machine learning. I am interested in stochastic optimization, randomized and distributed optimization methods and federated learning.
 
-My hobbies include fitness, martial arts, football, basketball.
+My hobbies include fitness, martial arts, football, basketball.  
+
+
 Education
 ======
 MS/PhD in Applied Mathematics and Computational Science  
