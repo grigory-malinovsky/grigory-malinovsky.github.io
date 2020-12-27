@@ -21,8 +21,17 @@ Education
 MS/PhD in Applied Mathematics and Computational Science  
 Computer, Electrical and Mathematical Sciences and Engineering Division  
 King Abdullah University of Science and Technology (KAUST)  
-Sept. 2020 -- Present Thuwal, Saudi Arabia  
+August 2020 -- Present  
+Thuwal, Saudi Arabia  
 Advisor: [Peter Richtárik](https://richtarik.org)
+
+BS in Applied Mathematics and Physics  
+Department of Control and Applied Mathematics  
+Moscow Institute of Physics and Technology  
+Sept. 2014 -- Jul. 2019  
+Dolgoprudny, Russia  
+Thesis: "Averaged Heavy Ball Method"  
+Advisor: [https://scholar.google.pk/citations?user=Zhlib28AAAAJ&hl=en](Boris Polyak)
 
 Site-wide configuration
 ------
