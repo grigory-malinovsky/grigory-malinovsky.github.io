@@ -10,7 +10,7 @@ redirect_from:
 <img src="/images/IMG_5962_2.JPG" alt="IMG_5962_2" width="420"/>
 
 
-About me
+Bio
 ======
 I am an MS/PhD student in Applied Mathematics and Computational Science at King Abdullah University of Science and Technology, advised by [Prof. Peter Richtárik](https://richtarik.org), working on optimization theory and its applications in Machine Learning.
 
