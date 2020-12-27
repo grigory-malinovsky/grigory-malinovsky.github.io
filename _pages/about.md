@@ -31,7 +31,7 @@ Advisor: [Peter Richtárik](https://richtarik.org)
 BS in Applied Mathematics and Physics  
 [Department of Control and Applied Mathematics](https://mipt.ru/english/edu/departments/dcam)  
 [Moscow Institute of Physics and Technology](https://mipt.ru/english/)  
-Sept. 2014 -- Jul. 2019  
+September 2014 -- July 2019  
 Dolgoprudny, Russia  
 Thesis: "Averaged Heavy Ball Method"  
 Advisor: [Boris Polyak](https://scholar.google.pk/citations?user=Zhlib28AAAAJ&hl=en)
