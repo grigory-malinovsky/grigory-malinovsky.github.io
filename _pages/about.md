@@ -14,7 +14,7 @@ About me
 ======
 I am an MS/PhD student in Applied Mathematics and Computational Science at King Abdullah University of Science and Technology, advised by [Prof. Peter Richtárik](https://richtarik.org), working on optimization theory and its applications in Machine Learning.
 
-My research interests lie in intersection of optimization methods and machine learning. I am interested in randomized and distributed optimization and federated learning.
+My research interests lie in the intersection of optimization and machine learning. I am interested in stochastic optimization, randomized and distributed optimization methods and federated learning.
 
 Getting started
 ======
