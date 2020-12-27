@@ -31,7 +31,7 @@ Moscow Institute of Physics and Technology
 Sept. 2014 -- Jul. 2019  
 Dolgoprudny, Russia  
 Thesis: "Averaged Heavy Ball Method"  
-Advisor: [https://scholar.google.pk/citations?user=Zhlib28AAAAJ&hl=en](Boris Polyak)
+Advisor: [Boris Polyak](https://scholar.google.pk/citations?user=Zhlib28AAAAJ&hl=en)
 
 Site-wide configuration
 ------
