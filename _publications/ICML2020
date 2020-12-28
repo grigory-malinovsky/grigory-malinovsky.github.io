@@ -1,0 +1,15 @@
+---
+title: "From Local SGD to Local Fixed-Point Methods for Federated Learning"
+collection: publications
+permalink: /publication/ICML2020
+excerpt: 
+date: 2020-07-01
+venue: 'ICML 2020'
+paperurl: 'http://proceedings.mlr.press/v119/malinovskiy20a.html'
+citation: 'Grigory Malinovsky, Dmitry Kovalev, Elnur Gasanov, Laurent Condat, Peter Richtárik'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
