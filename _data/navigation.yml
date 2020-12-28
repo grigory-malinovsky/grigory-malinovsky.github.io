@@ -12,9 +12,6 @@ main:
   - title: "News"
     url: /year-archive/
     
- - title: "Portfolio"
-    url: /portfolio/
-    
   - title: "CV"
     url: /files/Grigory-Malinovsky_CV.pdf
     
