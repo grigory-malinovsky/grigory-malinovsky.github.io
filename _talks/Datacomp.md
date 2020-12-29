@@ -8,4 +8,4 @@ date: 2019-10-27
 location: "Moscow, Russia"
 ---
 
-The properties of the training dataset in classification and regression problems are investigated. We propose a method for determining the complexity of the training data using a two-layer fully connected neural network. The number of neurons in the inner layer of the neural network is used to determine the complexity. [Book of abstracts](http://www.machinelearning.ru/wiki/images/b/bf/MMPR2019.pdf)(page 68).
+The properties of the training dataset in classification and regression problems are investigated. We propose a method for determining the complexity of the training data using a two-layer fully connected neural network. The number of neurons in the inner layer of the neural network is used to determine the complexity. [Book of abstracts](http://www.machinelearning.ru/wiki/images/b/bf/MMPR2019.pdf) (page 68).
