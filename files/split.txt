@@ -1,0 +1,6 @@
+@article{condat2020distributed,
+  title={Distributed proximal splitting algorithms with rates and acceleration},
+  author={Condat, Laurent and Malinovsky, Grigory and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2010.00952},
+  year={2020}
+}
