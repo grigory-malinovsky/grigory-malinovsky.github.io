@@ -1,7 +1,8 @@
 ---
-title: "Physics Tutor"
+title: "[Physics Tutor](https://апо.рф)"
 collection: teaching
 type: "Tutoring"
+permalink: /teaching/APO
 venue: "Physics Olympiads and Tests"
 date: 2019-01-01
 location: "Moscow, Russia"
