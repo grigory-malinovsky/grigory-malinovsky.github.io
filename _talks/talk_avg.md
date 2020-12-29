@@ -7,4 +7,4 @@ venue: "62th Scientific conference at MIPT, Section of Data analysis, recognitio
 date: 2019-10-23
 location: "Moscow, Russia"
 ---
-It is proposed a new approach to the classic Heavy ball method called the Averaged Heavy ball method for unconstrained optimization. This method reduces the peak effect, thereby providing a better convergence rate in the initial iterations. Best talk Award.
+It is proposed a new approach to the classic Heavy ball method called the Averaged Heavy ball method for unconstrained optimization. This method reduces the peak effect, thereby providing a better convergence rate in the initial iterations. It is provided analysis for the quadratic case and conduct numerical experiments justifying the theory for a wider class of problems. Best talk Award.
