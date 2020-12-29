@@ -1,7 +1,7 @@
 ---
 title: "Averaged Heavy Ball Method"
 collection: talks
-type: "Poster"
+type: "talk"
 permalink: /talks/Poster_avg
 venue: "Traditional Youth School "Control, Information and Optimization""
 date: 2019-06-19
