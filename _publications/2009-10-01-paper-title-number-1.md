@@ -1,10 +1,10 @@
 ---
-title: "From Local SGD to Local Fixed-Point Methods for Federated Learning, ICML 2020"
+title: "From Local SGD to Local Fixed-Point Methods for Federated Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Grigory Malinovsky, Dmitry Kovalev, Elnur Gasanov, Laurent Condat, Peter Richtárik'
 date: 2020-07-13
-venue: 'Proceedings of Machine Learning Research'
+venue: 'International Conference on Machine Learning, ICML'
 ---
 Abstract:
 ======
