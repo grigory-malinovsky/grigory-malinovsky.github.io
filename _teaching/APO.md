@@ -1,6 +1,10 @@
 ---
 title: "Physics Tutor"
 collection: teaching
+type: "Tutoring"
 permalink: /teaching/APO
+venue: "Physics Olympiads and Tests"
+date: 2019-01-01
+location: "Moscow, Russia"
 ---
-This course aims to introduce students to modern state of Machine Learning and Artificial Intelligence. It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectures and seminars.
+Preparation of 7-11th grade students for the Olympiads and tests
