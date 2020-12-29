@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Datacomp
 venue: "Mathematical Methods for Pattern Recognition: the 19th Russian National Conference with International Participation"
-date: 2019-11-27
+date: 2019-10-27
 location: "Moscow, Russia"
 ---
 
