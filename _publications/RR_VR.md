@@ -3,7 +3,6 @@ title: "Random Reshuffling with Variance Reduction: New Analysis and Better Rate
 collection: publications
 permalink: /publication/localFPM
 excerpt: 'Grigory Malinovsky, Alibek Sailanbayev, Peter Richtárik'
-date: 2021-02-15
 venue: ' '
 ---
 Submitted to ICML 2021 (under review)
