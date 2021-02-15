@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/IMG_5962_2.JPG" alt="IMG_5962_2" width="420"/>
 
 
 Bio
