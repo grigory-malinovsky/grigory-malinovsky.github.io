@@ -6,7 +6,7 @@ excerpt: 'Grigory Malinovsky, Alibek Sailanbayev, Peter Richtárik'
 date: 2021-02-12
 venue: ' '
 ---
-Submitted to ICML 2021 (under review)
+
 
 
 Abstract:
