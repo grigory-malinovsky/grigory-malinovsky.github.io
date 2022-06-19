@@ -4,7 +4,7 @@ collection: publication
 permalink: /publication/splitting2020
 excerpt: 'Laurent Condat, Grigory Malinovsky, Peter Richtárik'
 date: 2020-12-11
-venue: 'The 12th Annual Workshop on Optimization for Machine Learning (NeurIPS Workshop OPT2020), Spotlight'
+venue: 'Frontiers in Signal Processing','The 12th Annual Workshop on Optimization for Machine Learning (NeurIPS Workshop OPT2020), Spotlight'
 ---
 [PDF](https://arxiv.org/pdf/2010.00952.pdf), [Cite](https://grigory-malinovsky.github.io/files/split.txt), [Poster](https://opt-ml.org/posters/2020/poster_31.png), [arXiv](https://arxiv.org/abs/2010.00952), [OPT2020](https://opt-ml.org/papers.html), [NeurIPS](https://nips.cc/Conferences/2020/Schedule?showEvent=16149)  
 
