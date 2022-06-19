@@ -1,0 +1,6 @@
+@article{danilova2021averaged,
+  title={Averaged heavy-ball method},
+  author={Danilova, Marina and Malinovsky, Grigory},
+  journal={arXiv preprint arXiv:2111.05430},
+  year={2021}
+}
