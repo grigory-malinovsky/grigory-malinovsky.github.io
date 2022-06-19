@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Averaged_Heavy-Ball_Method
 excerpt: 'Marina Danilova, Grigory Malinovsky'
 date: 2021-11-09
-venue: ' '
+venue: 'Computer Research and Modeling '
 ---
 
 
