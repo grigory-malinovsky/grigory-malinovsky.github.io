@@ -17,6 +17,11 @@ $\tilde{\mathcal{O}}\left(\kappa^{3/2}\right)$
 
 in the strongly-convex case, and can be improved further to $\tilde{\mathcal{O}}\left(\kappa\right)$
 
-in the big data regime when $n > \tilde{\mathcal{O}}(\kappa)$, where $\kappa$ is the condition number. This improves upon the previous best rate $\tilde{\mathcal{O}}(\kappa^2)$ known for a variance reduced RR method in the strongly-convex case due to Ying, Yuan and Sayed (2020). Second, we obtain the first sublinear rate for general convex problems. Third, we establish similar fast rates for Cyclic-SVRG and Shuffle-Once-SVRG. Finally, we develop and analyze a more general variance reduction scheme for RR, which allows for less frequent updates of the control variate. We corroborate our theoretical results with suitably chosen experiments on synthetic and real datasets.
+in the big data regime when 
+$n > \tilde{\mathcal{O}}(\kappa)$,
+where $\kappa$ is the condition number.
+This improves upon the previous best rate
+$\tilde{\mathcal{O}}(\kappa^2)$ 
+known for a variance reduced RR method in the strongly-convex case due to Ying, Yuan and Sayed (2020). Second, we obtain the first sublinear rate for general convex problems. Third, we establish similar fast rates for Cyclic-SVRG and Shuffle-Once-SVRG. Finally, we develop and analyze a more general variance reduction scheme for RR, which allows for less frequent updates of the control variate. We corroborate our theoretical results with suitably chosen experiments on synthetic and real datasets.
 
 
