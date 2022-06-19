@@ -1,7 +1,7 @@
 ---
 title: "Random Reshuffling with Variance Reduction: New Analysis and Better Rates"
 collection: publications
-permalink: /publication/localFPM
+permalink: /publication/RR-VR
 excerpt: 'Grigory Malinovsky, Alibek Sailanbayev, Peter Richtárik'
 date: 2021-02-12
 venue: ' '
