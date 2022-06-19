@@ -7,7 +7,7 @@ date: 2022-04-09
 venue: 'Computer Research and Modeling'
 ---
 
-[PDF](https://arxiv.org/pdf/2111.05430.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/pdf/2111.05430), [Computer Research and Modeling](http://crm.ics.org.ru/journal/article/3184/) 
+[PDF](https://arxiv.org/pdf/2111.05430.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2111.05430), [Computer Research and Modeling](http://crm.ics.org.ru/journal/article/3184/) 
 
 Abstract:
 ======
