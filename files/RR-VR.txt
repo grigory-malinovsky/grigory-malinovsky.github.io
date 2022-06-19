@@ -1,0 +1,6 @@
+@article{malinovsky2021random,
+  title={Random reshuffling with variance reduction: New analysis and better rates},
+  author={Malinovsky, Grigory and Sailanbayev, Alibek and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2104.09342},
+  year={2021}
+}
