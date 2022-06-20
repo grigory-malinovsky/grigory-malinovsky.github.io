@@ -3,7 +3,7 @@ title: "ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Accel
 collection: publications
 permalink: /publication/proxskip
 excerpt: 'Konstantin Mishchenko, Grigory Malinovsky, Sebastian Stich, Peter Richtárik'
-date: 2022-01-09
+date: 2022-06-09
 venue: 'Thirty-ninth International Conference on Machine Learning (ICML 2022)'
 ---
 
