@@ -1,0 +1,6 @@
+@article{sadiev2022federated,
+  title={Federated Optimization Algorithms with Random Reshuffling and Gradient Compression},
+  author={Sadiev, Abdurakhmon and Malinovsky, Grigory and Gorbunov, Eduard and Sokolov, Igor and Khaled, Ahmed and Burlachenko, Konstantin and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2206.07021},
+  year={2022}
+}
