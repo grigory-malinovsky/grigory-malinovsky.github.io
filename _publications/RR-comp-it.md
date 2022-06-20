@@ -7,7 +7,7 @@ date: 2022-02-09
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2205.03914.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2205.03914), [International Workshop on Federated Learning for User Privacy and Data Confidentiality 
+[PDF](https://arxiv.org/pdf/2205.03914.pdf), [Cite](https://grigory-malinovsky.github.io/files/rr-comp-it.txt), [arXiv](https://arxiv.org/abs/2205.03914), [International Workshop on Federated Learning for User Privacy and Data Confidentiality 
 in Conjunction with ICML 2021 (FL-ICML'21)](https://fl-icml.github.io/2021/papers/FL-ICML21_paper_34.pdf) 
 
 Abstract:
