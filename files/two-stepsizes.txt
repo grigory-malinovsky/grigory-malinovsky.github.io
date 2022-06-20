@@ -1,0 +1,6 @@
+@article{malinovsky2022server,
+  title={Server-Side Stepsizes and Sampling Without Replacement Provably Help in Federated Optimization},
+  author={Malinovsky, Grigory and Mishchenko, Konstantin and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2201.11066},
+  year={2022}
+}
