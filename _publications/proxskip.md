@@ -7,7 +7,7 @@ date: 2022-01-09
 venue: 'Thirty-ninth International Conference on Machine Learning (ICML 2022)'
 ---
 
-[PDF](https://arxiv.org/pdf/2111.05430.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2111.05430), [Computer Research and Modeling](http://crm-en.ics.org.ru/journal/article/3184/) 
+[PDF](https://arxiv.org/pdf/2202.09357.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2202.09357), [Computer Research and Modeling](http://crm-en.ics.org.ru/journal/article/3184/) 
 
 Abstract:
 ======
