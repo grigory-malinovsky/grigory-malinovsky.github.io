@@ -6,7 +6,7 @@ excerpt: 'Grigory Malinovsky, Konstantin Mishchenko, Peter Richtárik'
 date: 2022-01-26 
 venue: 'arXiv'
 ---
-[PDF](https://arxiv.org/pdf/2201.11066), [Cite](https://grigory-malinovsky.github.io/files/fedRR-two-stepsize.txt), [arXiv](https://arxiv.org/abs/2201.11066), [OPT2021: 13th Annual Workshop on Optimization for Machine Learning](https://opt-ml.org/papers/2021/paper39.pdf) 
+[PDF](https://arxiv.org/pdf/2201.11066), [Cite](https://grigory-malinovsky.github.io/files/fedRR-two-stepsizes.txt), [arXiv](https://arxiv.org/abs/2201.11066), [OPT2021: 13th Annual Workshop on Optimization for Machine Learning](https://opt-ml.org/papers/2021/paper39.pdf) 
 
 
 Abstract:
