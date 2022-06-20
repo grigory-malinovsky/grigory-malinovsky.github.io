@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RR-VR
 excerpt: 'Grigory Malinovsky, Alibek Sailanbayev, Peter Richtárik'
 date: 2021-02-12
-venue: 'arXiv '
+venue: 'arXiv'
 ---
 [PDF](https://arxiv.org/pdf/2104.09342.pdf), [Cite](https://grigory-malinovsky.github.io/files/RR-VR.txt), [arXiv](https://arxiv.org/abs/2104.09342), [OPT2021: 13th Annual Workshop on Optimization for Machine Learning](https://opt-ml.org/papers/2021/paper30.pdf) 
 
