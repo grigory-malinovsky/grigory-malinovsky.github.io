@@ -1,0 +1,6 @@
+@article{mishchenko2022proxskip,
+  title={ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!},
+  author={Mishchenko, Konstantin and Malinovsky, Grigory and Stich, Sebastian and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2202.09357},
+  year={2022}
+}
