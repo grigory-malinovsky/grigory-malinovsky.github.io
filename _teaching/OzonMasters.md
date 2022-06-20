@@ -7,6 +7,6 @@ venue: "Ozon Masters, Spring"
 date: 2020-01-01
 location: "Moscow, Russia"
 ---
-
+The introductory course to convex optimization and modern optimization methods.
 
 
