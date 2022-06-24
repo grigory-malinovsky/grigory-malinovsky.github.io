@@ -7,4 +7,4 @@ tags:
   - Saarbrücken
   - Germany
 ---
-I am visiting (https://www.sstich.ch)[Sebastian Stich] at CISPA Helmholtz Center for Information Security. 
+I am visiting [Sebastian Stich](https://www.sstich.ch) at CISPA Helmholtz Center for Information Security. 
