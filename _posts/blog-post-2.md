@@ -1,7 +1,7 @@
 ---
 title: 'Research visit'
 date: 2022-06-24
-permalink: /posts/2022/06/blog-post-2/
+permalink: /posts/blog-post-2/
 tags:
   - CISPA
   - Saarbrücken
