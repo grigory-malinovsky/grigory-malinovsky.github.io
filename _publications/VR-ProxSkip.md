@@ -6,7 +6,7 @@ excerpt: 'Grigory Malinovsky, Kai Yi, Peter Richtárik'
 date: 2022-07-09 
 venue: 'arXiv'
 ---
-[PDF](https://arxiv.org/pdf/2207.04338.pdf), [Cite](https://grigory-malinovsky.github.io/files/two-stepsizes.txt), [arXiv](https://arxiv.org/abs/2207.04338) 
+[PDF](https://arxiv.org/pdf/2207.04338.pdf), [Cite](https://grigory-malinovsky.github.io/files/vr-proxskip.txt), [arXiv](https://arxiv.org/abs/2207.04338) 
 
 
 Abstract:
