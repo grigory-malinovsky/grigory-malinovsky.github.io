@@ -1,0 +1,6 @@
+@article{malinovsky2022variance,
+  title={Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning},
+  author={Malinovsky, Grigory and Yi, Kai and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2207.04338},
+  year={2022}
+}
