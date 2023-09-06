@@ -11,19 +11,26 @@ redirect_from:
 
 Bio
 ======
-I am an MS/PhD student in Applied Mathematics and Computational Science at King Abdullah University of Science and Technology, advised by Prof. Peter Richtárik, working on optimization theory and its applications in Machine Learning.
+I am a PhD student in Applied Mathematics and Computational Science at King Abdullah University of Science and Technology, advised by Prof. Peter Richtárik, working on optimization theory and its applications in Machine Learning.
 
-My research interests lie in the intersection of optimization and machine learning. I am interested in stochastic optimization, randomized and distributed optimization methods and federated learning.
+My research interests lie at the intersection of optimization and machine learning. I am interested in stochastic optimization, randomized and distributed optimization methods, and federated learning.
 
-My hobbies include fitness, martial arts, football and basketball.  
+My hobbies include fitness, martial arts, football, and basketball.
 
 
 Education
 ======
-MS/PhD in Applied Mathematics and Computational Science  
+PhD in Applied Mathematics and Computational Science  
 [Computer, Electrical and Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa)  
 [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en)  
-Aug. 2020 -- Present  
+Jan. 2022 -- present  
+Thuwal, Saudi Arabia  
+Advisor: [Peter Richtárik](https://richtarik.org)
+
+MS in Applied Mathematics and Computational Science  
+[Computer, Electrical and Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa)  
+[King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en)  
+Aug. 2020 -- Dec. 2021  
 Thuwal, Saudi Arabia  
 Advisor: [Peter Richtárik](https://richtarik.org)
 
