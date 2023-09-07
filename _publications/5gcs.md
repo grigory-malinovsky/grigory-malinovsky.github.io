@@ -7,7 +7,7 @@ date: 2022-12-29
 venue: 'The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)'
 ---
 
-[PDF](https://arxiv.org/abs/2212.14370.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2212.14370), [Computer Research and Modeling](http://crm-en.ics.org.ru/journal/article/3184/) 
+[PDF](https://arxiv.org/pdf/2212.14370.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2212.14370), [The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)](https://aistats.org/aistats2023/accepted.html) 
 
 Abstract:
 ======
