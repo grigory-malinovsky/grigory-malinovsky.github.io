@@ -3,7 +3,7 @@ title: "Can 5th Generation Local Training Methods Support Client Sampling? Yes!"
 collection: publications
 permalink: /publication/5GCS
 excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
-date: 2022-12-29
+date: 2023-01-29
 venue: 'The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)'
 ---
 
