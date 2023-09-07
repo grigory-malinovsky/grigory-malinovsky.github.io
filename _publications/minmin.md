@@ -7,7 +7,7 @@ date: 2023-01-29
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2212.14439.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2212.14439), [The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)](https://aistats.org/aistats2023/accepted.html) 
+[PDF](https://arxiv.org/pdf/2212.14439.pdf), [Cite](https://grigory-malinovsky.github.io/files/minmin.txt), [arXiv](https://arxiv.org/abs/2212.14439)
 
 Abstract:
 ======
