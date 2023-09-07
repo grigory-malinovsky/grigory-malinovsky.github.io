@@ -1,0 +1,6 @@
+@article{condat2023tamuna,
+  title={TAMUNA: Accelerated federated learning with local training and partial participation},
+  author={Condat, Laurent and Malinovsky, Grigory and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2302.09832},
+  year={2023}
+}
