@@ -7,9 +7,7 @@ date: 2023-02-7
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2302.03662.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2302.03662), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities
-
-Workshop at ICML 2023](https://fl-icml2023.github.io) 
+[PDF](https://arxiv.org/pdf/2302.03662.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2302.03662), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io) 
 
 Abstract:
 ======
