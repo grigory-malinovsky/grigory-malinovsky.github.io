@@ -1,0 +1,6 @@
+@article{kovalev2022optimal,
+  title={An Optimal Algorithm for Strongly Convex Min-min Optimization},
+  author={Kovalev, Dmitry and Gasnikov, Alexander and Malinovsky, Grigory},
+  journal={arXiv preprint arXiv:2212.14439},
+  year={2022}
+}
