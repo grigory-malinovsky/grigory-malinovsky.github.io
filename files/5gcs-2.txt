@@ -1,0 +1,6 @@
+@article{grudzien2023improving,
+  title={Improving Accelerated Federated Learning with Compression and Importance Sampling},
+  author={Grudzie{\'n}, Micha{\l} and Malinovsky, Grigory and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2306.03240},
+  year={2023}
+}
