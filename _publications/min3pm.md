@@ -1,13 +1,13 @@
 ---
 title: "Minibatch Stochastic Three Points Method for Unconstrained Smooth Minimization"
 collection: publications
-permalink: /publication/Minibatch_Stochastic_Three_Points_Method_for_Unconstrained_Smooth_Minimization
+permalink: /publication/Minibatch_Stochastic_Three_Points_Method
 excerpt: 'Soumia Boucherouite, Grigory Malinovsky, Peter Richtárik, EL Bergou'
 date: 2022-09-16 
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2209.07883)
+[PDF](https://arxiv.org/pdf/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/mini3PM.txt), [arXiv](https://arxiv.org/abs/2209.07883)
 
 Abstract:
 ======
