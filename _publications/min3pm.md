@@ -7,8 +7,8 @@ date: 2022-09-16
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2111.05430.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2111.05430), [Computer Research and Modeling](http://crm-en.ics.org.ru/journal/article/3184/) 
+[PDF](https://arxiv.org/pdf/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/averaged_hb.txt), [arXiv](https://arxiv.org/abs/2209.07883)
 
 Abstract:
 ======
-Heavy-Ball method (HB) is known for its simplicity in implementation and practical efficiency. However, as with other momentum methods, it has non-monotone behavior, and for optimal parameters, the method suffers from the so-called peak effect. To address this issue, in this paper, we consider an averaged version of Heavy-Ball method (AHB). We show that for quadratic problems AHB has a smaller maximal deviation from the solution than HB. Moreover, for general convex and strongly convex functions, we prove non-accelerated rates of global convergence of AHB and its weighted version. We conduct several numerical experiments on minimizing quadratic and non-quadratic functions to demonstrate the advantages of using averaging for HB.
+In this paper, we propose a new zero order optimization method called minibatch stochastic three points (MiSTP) method to solve an unconstrained minimization problem in a setting where only an approximation of the objective function evaluation is possible. It is based on the recently proposed stochastic three points (STP) method (Bergou et al., 2020). At each iteration, MiSTP generates a random search direction in a similar manner to STP, but chooses the next iterate based solely on the approximation of the objective function rather than its exact evaluations. We also analyze our method's complexity in the nonconvex and convex cases and evaluate its performance on multiple machine learning tasks.
