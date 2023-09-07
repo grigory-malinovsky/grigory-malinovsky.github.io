@@ -1,7 +1,7 @@
 ---
 title: "TAMUNA: Doubly Accelerated Federated Learning with Local Training, Compression, and Partial Participation"
 collection: publications
-permalink: /publication/5GCS
+permalink: /publication/TAMUNA
 excerpt: 'Laurent Condat, Ivan Agarský, Grigory Malinovsky, Peter Richtárik'
 date: 2023-02-24
 venue: 'arXiv'
