@@ -7,7 +7,7 @@ date: 2023-02-24
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2302.09832.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2302.09832)
+[PDF](https://arxiv.org/pdf/2302.09832.pdf), [Cite](https://grigory-malinovsky.github.io/files/tamuna.txt), [arXiv](https://arxiv.org/abs/2302.09832)
 
 Abstract:
 ======
