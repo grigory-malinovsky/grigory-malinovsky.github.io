@@ -1,13 +1,13 @@
 ---
 title: "Improving Accelerated Federated Learning with Compression and Importance Sampling"
 collection: publications
-permalink: /publication/5GCS
+permalink: /publication/5GCS-2
 excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
 date: 2023-06-05
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2302.09832.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2306.03240), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io) 
+[PDF](https://arxiv.org/pdf/2302.09832.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs-2.txt), [arXiv](https://arxiv.org/abs/2306.03240), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io) 
 
 Abstract:
 ======
