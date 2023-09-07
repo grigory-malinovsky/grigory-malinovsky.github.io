@@ -7,7 +7,7 @@ date: 2022-07-09
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2206.07021), [Cite](https://grigory-malinovsky.github.io/files/fedrr-diana.txt), [arXiv](https://arxiv.org/abs/2206.07021)
+[PDF](https://arxiv.org/pdf/2206.07021), [Cite](https://grigory-malinovsky.github.io/files/fedrr-diana.txt), [arXiv](https://arxiv.org/abs/2206.07021), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io)
 
 Abstract:
 ======
