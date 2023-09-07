@@ -1,0 +1,6 @@
+@article{demidovich2023guide,
+  title={A Guide Through the Zoo of Biased SGD},
+  author={Demidovich, Yury and Malinovsky, Grigory and Sokolov, Igor and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2305.16296},
+  year={2023}
+}
