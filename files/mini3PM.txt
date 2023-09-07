@@ -1,0 +1,6 @@
+@article{boucherouite2022minibatch,
+  title={Minibatch Stochastic Three Points Method for Unconstrained Smooth Minimization},
+  author={Boucherouite, Soumia and Malinovsky, Grigory and Richt{\'a}rik, Peter and Bergou, EL},
+  journal={arXiv preprint arXiv:2209.07883},
+  year={2022}
+}
