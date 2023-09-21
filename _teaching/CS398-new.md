@@ -3,7 +3,7 @@ title: "[Graduate Seminar (CS 398)](https://registrar-programguide.kaust.edu.sa/
 collection: teaching
 type: "Graduate course, Teaching Assistance"
 permalink: /teaching/CS398-spring
-venue: "KAUST, Fall"
+venue: "KAUST, Spring"
 date: 2023-01-01
 location: "Thuwal, Saudi Arabia"
 ---
