@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course, Teaching Assistance"
 permalink: /teaching/CS398
 venue: "KAUST, Fall"
-date: 2022-08-01
+date: 2022-07-01
 location: "Thuwal, Saudi Arabia"
 ---
 
