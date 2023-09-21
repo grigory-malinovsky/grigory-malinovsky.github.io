@@ -8,5 +8,5 @@ venue: "Google Research Seminar Zachary Charles)"
 date: 2023-06-8
 location: "Online"
 ---
-Google Research Seminar (invited by \href{https://scholar.google.com/citations?hl=en&user=h1FZBjEAAAAJ}{Zachary Charles})
+Google Research Seminar (invited by $\href{https://scholar.google.com/citations?hl=en&user=h1FZBjEAAAAJ}{Zachary Charles}$)
 
