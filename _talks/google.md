@@ -4,9 +4,9 @@ title: "ProxSkip and its Variations:
 collection: talks
 type: "Talk"
 permalink: /talks/ProxSkip-overview
-venue: "Google Research Seminar (invited by \href{https://scholar.google.com/citations?hl=en&user=h1FZBjEAAAAJ}{Zachary Charles})"
+venue: "Google Research Seminar Zachary Charles)"
 date: 2023-06-8
 location: "Online"
 ---
-
+Google Research Seminar (invited by \href{https://scholar.google.com/citations?hl=en&user=h1FZBjEAAAAJ}{Zachary Charles})
 
