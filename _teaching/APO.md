@@ -1,5 +1,5 @@
 ---
-title: "[Physics Tutor](https://апо.рф)"
+title: "Physics Tutor"
 collection: teaching
 type: "Tutoring"
 permalink: /teaching/APO
