@@ -6,7 +6,7 @@ excerpt: 'Yury Demidovich, Grigory Malinovsky, Peter Richtárik'
 date: 2024-03-11
 venue: 'arXiv'
 ---
-[PDF](https://arxiv.org/pdf/2403.06677.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2403.06677)
+[PDF](https://arxiv.org/pdf/2403.06677.pdf), [Cite](https://grigory-malinovsky.github.io/files/RiemannianVR.txt), [arXiv](https://arxiv.org/abs/2403.06677)
 
 Abstract:
 ======
