@@ -3,7 +3,7 @@ title: "A Guide Through the Zoo of Biased SGD"
 collection: publications
 permalink: /publication/biased_SGD
 excerpt: 'Yury Demidovich, Grigory Malinovsky, Igor Sokolov, Peter Richtárik'
-date: 2023-05-24
+date: 2023-12-12
 venue: 'Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2023)'
 ---
 
