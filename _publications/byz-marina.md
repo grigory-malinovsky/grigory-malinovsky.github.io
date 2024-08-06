@@ -1,9 +1,9 @@
 ---
-title: "Byzantine Robustness and Partial Participation Can Be Achieved Simultaneously: Just Clip Gradient Differences"
+title: "Improving Accelerated Federated Learning with Compression and Importance Sampling"
 collection: publications
-permalink: /publication/Byz-MARINA-PP
-excerpt: 'Grigory Malinovsky, Peter Richtárik', Samuel Horváth, Eduard Gorbunov 
-date: 2023-23-11
+permalink: /publication/5GCS2
+excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
+date: 2023-06-05
 venue: 'arXiv'
 ---
 
