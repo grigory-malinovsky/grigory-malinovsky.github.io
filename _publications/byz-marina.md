@@ -1,9 +1,9 @@
 ---
-title: "Improving Accelerated Federated Learning with Compression and Importance Sampling"
+title: "Byzantine Robustness and Partial Participation Can Be Achieved Simultaneously: Just Clip Gradient Differences"
 collection: publications
-permalink: /publication/5GCS2
-excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
-date: 2023-06-05
+permalink: /publication/Byz-MARINA-PP
+excerpt: 'Grigory Malinovsky, Peter Richtárik', Samuel Horváth, Eduard Gorbunov 
+date: 2023-11-23
 venue: 'arXiv'
 ---
 
@@ -11,4 +11,4 @@ venue: 'arXiv'
 
 Abstract:
 ======
-Federated Learning is a collaborative training framework that leverages heterogeneous data distributed across a vast number of clients. Since it is practically infeasible to request and process all clients during the aggregation step, partial participation must be supported. In this setting, the communication between the server and clients poses a major bottleneck. To reduce communication loads, there are two main approaches: compression and local steps. Recent work by Mishchenko et al. [2022] introduced the new ProxSkip method, which achieves an accelerated rate using the local steps technique. Follow-up works successfully combined local steps acceleration with partial participation [Grudzień et al., 2023, Condat et al. 2023] and gradient compression [Condat et al. [2022]. In this paper, we finally present a complete method for Federated Learning that incorporates all necessary ingredients: Local Training, Compression, and Partial Participation. We obtain state-of-the-art convergence guarantees in the considered setting. Moreover, we analyze the general sampling framework for partial participation and derive an importance sampling scheme, which leads to even better performance. We experimentally demonstrate the advantages of the proposed method in practice.
+Distributed learning has emerged as a leading paradigm for training large machine learning models. However, in real-world scenarios, participants may be unreliable or malicious, posing a significant challenge to the integrity and accuracy of the trained models. Byzantine fault tolerance mechanisms have been proposed to address these issues, but they often assume full participation from all clients, which is not always practical due to the unavailability of some clients or communication constraints. In our work, we propose the first distributed method with client sampling and provable tolerance to Byzantine workers. The key idea behind the developed method is the use of gradient clipping to control stochastic gradient differences in recursive variance reduction. This allows us to bound the potential harm caused by Byzantine workers, even during iterations when all sampled clients are Byzantine. Furthermore, we incorporate communication compression into the method to enhance communication efficiency. Under general assumptions, we prove convergence rates for the proposed method that match the existing state-of-the-art (SOTA) theoretical results. We also propose a heuristic on adjusting any Byzantine-robust method to a partial participation scenario via clipping.
