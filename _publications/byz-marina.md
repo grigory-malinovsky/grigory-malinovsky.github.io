@@ -3,7 +3,7 @@ title: "Byzantine Robustness and Partial Participation Can Be Achieved Simultane
 collection: publications
 permalink: /publication/Byz-MARINA-PP
 excerpt: 'Grigory Malinovsky, Peter Richtárik', Samuel Horváth, Eduard Gorbunov 
-date: 2023-11-23
+date: 2023-23-11
 venue: 'arXiv'
 ---
 
