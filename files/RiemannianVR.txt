@@ -1,6 +1,0 @@
-@article{demidovich2024streamlining,
-  title={Streamlining in the Riemannian Realm: Efficient Riemannian Optimization with Loopless Variance Reduction},
-  author={Demidovich, Yury and Malinovsky, Grigory and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2403.06677},
-  year={2024}
-}
