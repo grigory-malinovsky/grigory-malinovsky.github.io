@@ -15,7 +15,7 @@ I am a PhD student in Applied Mathematics and Computational Science at King Abdu
 
 My research interests lie at the intersection of optimization and machine learning. I am interested in stochastic optimization, randomized and distributed optimization methods, and federated learning.
 
-My hobbies include fitness, martial arts, football, and basketball.
+My hobbies include fitness, martial arts, football, basketball, drums.
 
 
 Education
