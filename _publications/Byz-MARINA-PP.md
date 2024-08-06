@@ -7,7 +7,7 @@ date: 2023-11-23
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/pdf/2311.14127.pdf), [Cite](https://grigory-malinovsky.github.io/files/byz-Marina-PP.txt), [arXiv](https://arxiv.org/abs/2311.14127), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io) 
+[PDF](https://arxiv.org/pdf/2311.14127.pdf), [Cite](https://grigory-malinovsky.github.io/files/byz-Marina-PP.txt), [arXiv](https://arxiv.org/abs/2311.14127), [Privacy Regulation and Protection in Machine Learning Workshop at ICLR 2024](https://pml-workshop.github.io/iclr24/) 
 
 Abstract:
 ======
