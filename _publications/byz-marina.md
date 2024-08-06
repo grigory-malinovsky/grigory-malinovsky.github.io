@@ -2,7 +2,7 @@
 title: "Byzantine Robustness and Partial Participation Can Be Achieved at Once: Just Clip Gradient Differences"
 collection: publications
 permalink: /publication/Byz-MARINA-PP
-excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
+excerpt: 'Grigory Malinovsky, Peter Richtárik'
 date: 2023-11-23
 venue: 'arXiv'
 ---
