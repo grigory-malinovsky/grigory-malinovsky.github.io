@@ -3,11 +3,11 @@ title: "Minibatch Stochastic Three Points Method for Unconstrained Smooth Minimi
 collection: publications
 permalink: /publication/Minibatch_Stochastic_Three_Points_Method
 excerpt: 'Soumia Boucherouite, Grigory Malinovsky, Peter Richtárik, El Houcine Bergou'
-date: 2022-09-06
+date: 2024-01-06
 venue: 'arXiv'
 ---
 
-[PDF](https://arxiv.org/abs/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/mini3PM.txt), [arXiv](https://arxiv.org/abs/2209.07883) 
+[PDF](https://arxiv.org/abs/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/mini3PM.txt), [arXiv](https://arxiv.org/abs/2209.07883), [The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)](https://aaai.org/aaai-conference/) 
 
 Abstract:
 ======
