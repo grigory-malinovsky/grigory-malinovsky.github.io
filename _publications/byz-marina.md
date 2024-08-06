@@ -1,9 +1,9 @@
 ---
-title: "Improving Accelerated Federated Learning with Compression and Importance Sampling"
+title: "Byzantine Robustness and Partial Participation Can Be Achieved at Once: Just Clip Gradient Differences"
 collection: publications
 permalink: /publication/5GCS2
 excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
-date: 2023-06-05
+date: 2023-11-23
 venue: 'arXiv'
 ---
 
