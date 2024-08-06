@@ -3,7 +3,7 @@ title: "Server-Side Stepsizes and Sampling Without Replacement Provably Help in 
 collection: publications
 permalink: /publication/FedRR-two-stepsizes
 excerpt: 'Grigory Malinovsky, Konstantin Mishchenko, Peter Richtárik'
-date: 2022-01-26 
+date: 2023-12-08 
 venue: '4th International Workshop on Distributed Machine Learning (DistributedML 2023)'
 ---
 [PDF](https://arxiv.org/pdf/2201.11066), [Cite](https://grigory-malinovsky.github.io/files/two-stepsizes.txt), [arXiv](https://arxiv.org/abs/2201.11066), [OPT2021: 13th Annual Workshop on Optimization for Machine Learning](https://opt-ml.org/papers/2021/paper39.pdf), [DistributedML 2023](https://distributedml.org)
