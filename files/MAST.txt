@@ -1,0 +1,6 @@
+@article{demidovich2023mast,
+  title={MAST: Model-Agnostic Sparsified Training},
+  author={Demidovich, Yury and Malinovsky, Grigory and Shulgin, Egor and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2311.16086},
+  year={2023}
+}
