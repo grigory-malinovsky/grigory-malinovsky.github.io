@@ -1,6 +1,0 @@
-@article{malinovsky2023byzantine,
-  title={Byzantine robustness and partial participation can be achieved simultaneously: Just clip gradient differences},
-  author={Malinovsky, Grigory and Richt{\'a}rik, Peter and Horv{\'a}th, Samuel and Gorbunov, Eduard},
-  journal={arXiv preprint arXiv:2311.14127},
-  year={2023}
-}
