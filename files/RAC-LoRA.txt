@@ -1,0 +1,6 @@
+@article{malinovsky2024randomized,
+  title={Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation},
+  author={Malinovsky, Grigory and Michieli, Umberto and Hammoud, Hasan Abed Al Kader and Ceritli, Taha and Elesedy, Hayder and Ozay, Mete and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2410.08305},
+  year={2024}
+}
