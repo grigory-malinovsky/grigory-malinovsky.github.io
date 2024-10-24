@@ -1,0 +1,6 @@
+@article{modoranu2024microadam,
+  title={MicroAdam: Accurate Adaptive Optimization with Low Space Overhead and Provable Convergence},
+  author={Modoranu, Ionut-Vlad and Safaryan, Mher and Malinovsky, Grigory and Kurtic, Eldar and Robert, Thomas and Richtarik, Peter and Alistarh, Dan},
+  journal={arXiv preprint arXiv:2405.15593},
+  year={2024}
+}
