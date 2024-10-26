@@ -3,11 +3,11 @@ title: "Federated Optimization Algorithms with Random Reshuffling and Gradient C
 collection: publications
 permalink: /publication/fedRR-diana
 excerpt: 'Abdurakhmon Sadiev, Grigory Malinovsky, Eduard Gorbunov, Igor Sokolov, Ahmed Khaled, Konstantin Burlachenko, Peter Richtárik'
-date: 2022-07-09
-venue: 'arXiv'
+date: 2024-10-15
+venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
 ---
 
-[PDF](https://arxiv.org/pdf/2206.07021), [Cite](https://grigory-malinovsky.github.io/files/fedrr-diana.txt), [arXiv](https://arxiv.org/abs/2206.07021), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io)
+[PDF](https://arxiv.org/pdf/2206.07021), [Cite](https://grigory-malinovsky.github.io/files/fedrr-diana.txt), [arXiv](https://arxiv.org/abs/2206.07021), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io), [NeurIPS 2024](https://nips.cc/virtual/2024/poster/96110)
 
 Abstract:
 ======
