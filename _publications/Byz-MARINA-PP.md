@@ -3,7 +3,7 @@ title: "Byzantine Robustness and Partial Participation Can Be Achieved Simultane
 collection: publications
 permalink: /publication/Byz-MARINA-PP
 excerpt: 'Grigory Malinovsky, Peter Richtárik, Samuel Horváth, Eduard Gorbunov'
-date: 2023-11-23
+date: 2024-10-15
 venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems, (NeurIPS 2024)'
 ---
 
