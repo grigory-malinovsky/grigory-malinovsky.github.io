@@ -1,0 +1,6 @@
+@article{tovmasyan2025revisiting,
+  title={Revisiting Stochastic Proximal Point Methods: Generalized Smoothness and Similarity},
+  author={Tovmasyan, Zhirayr and Malinovsky, Grigory and Condat, Laurent and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2502.03401},
+  year={2025}
+}
