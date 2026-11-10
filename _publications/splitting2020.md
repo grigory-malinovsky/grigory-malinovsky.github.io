@@ -1,6 +1,6 @@
 ---
 title: "Distributed Proximal Splitting Algorithms with Rates and Acceleration"
-collection: publication
+collection: publications
 permalink: /publication/splitting2020
 excerpt: 'Laurent Condat, Grigory Malinovsky, Peter Richtárik'
 date: 2022-01-11

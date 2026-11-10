@@ -3,10 +3,10 @@ title: "Streamlining in the Riemannian Realm: Efficient Riemannian Optimization 
 collection: publications
 permalink: /publication/RiemannianVR
 excerpt: 'Yury Demidovich, Grigory Malinovsky, Peter Richtárik'
-date: 2024-03-11
-venue: 'arXiv'
+date: 2025-10-17
+venue: "International Conference on Computational Optimization (ICOMP 2025, Oral)"
 ---
-[PDF](https://arxiv.org/pdf/2403.06677.pdf), [Cite](https://grigory-malinovsky.github.io/files/RiemannianVR.txt), [arXiv](https://arxiv.org/abs/2403.06677)
+[PDF](https://arxiv.org/pdf/2403.06677.pdf), [Cite](https://grigory-malinovsky.github.io/files/RiemannianVR.txt), [arXiv](https://arxiv.org/abs/2403.06677), [ICOMP 2025 (Oral)](https://icomp.cc)
 
 Abstract:
 ======

@@ -1,6 +1,10 @@
 @article{condat2020distributed,
-  title={Distributed proximal splitting algorithms with rates and acceleration},
+  title={Distributed Proximal Splitting Algorithms with Rates and Acceleration},
   author={Condat, Laurent and Malinovsky, Grigory and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2010.00952},
-  year={2020}
+  journal={Frontiers in Signal Processing},
+  year={2022},
+  eprint={2010.00952},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2010.00952},
+  note={Section Signal Processing for Communications; Spotlight at NeurIPS 12th Annual Workshop on Optimization for Machine Learning, NeurIPS 2020; arXiv:2010.00952, 2020}
 }

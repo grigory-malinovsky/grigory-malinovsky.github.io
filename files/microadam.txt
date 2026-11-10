@@ -1,6 +1,9 @@
-@article{modoranu2024microadam,
+@inproceedings{modoranu2024microadam,
   title={MicroAdam: Accurate Adaptive Optimization with Low Space Overhead and Provable Convergence},
-  author={Modoranu, Ionut-Vlad and Safaryan, Mher and Malinovsky, Grigory and Kurtic, Eldar and Robert, Thomas and Richtarik, Peter and Alistarh, Dan},
-  journal={arXiv preprint arXiv:2405.15593},
-  year={2024}
+  author={Modoranu, Ionut-Vlad and Safaryan, Mher and Malinovsky, Grigory and Kurtic, Eldar and Robert, Thomas and Richt{\'a}rik, Peter and Alistarh, Dan},
+  booktitle={38th Conference on Neural Information Processing Systems, NeurIPS 2024},
+  year={2024},
+  eprint={2405.15593},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/pdf/2405.15593}
 }

@@ -1,6 +1,9 @@
-@article{malinovsky2020local,
-  title={From Local SGD to Local Fixed Point Methods for Federated Learning},
-  author={Malinovsky, Grigory and Kovalev, Dmitry and Gasanov, Elnur and Condat, Laurent and Richtarik, Peter},
-  journal={arXiv preprint arXiv:2004.01442},
-  year={2020}
+@inproceedings{malinovsky2020local,
+  title={From Local SGD to Local Fixed-Point Methods for Federated Learning},
+  author={Malinovsky, Grigory and Kovalev, Dmitry and Gasanov, Elnur and Condat, Laurent and Richt{\'a}rik, Peter},
+  booktitle={37th International Conference on Machine Learning, ICML 2020},
+  year={2020},
+  eprint={2004.01442},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2004.01442}
 }

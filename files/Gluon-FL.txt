@@ -1,0 +1,9 @@
+@article{qian2026gluonfl,
+  title={Communication-Efficient Gluon in Federated Learning},
+  author={Qian, Xun and Gaponov, Alexander and Malinovsky, Grigory and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2604.10689},
+  year={2026},
+  eprint={2604.10689},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2604.10689}
+}

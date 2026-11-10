@@ -1,6 +1,10 @@
-@article{demidovich2023mast,
+@inproceedings{demidovich2023mast,
   title={MAST: Model-Agnostic Sparsified Training},
   author={Demidovich, Yury and Malinovsky, Grigory and Shulgin, Egor and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2311.16086},
-  year={2023}
+  booktitle={The 13th International Conference on Learning Representations, ICLR 2025},
+  year={2025},
+  eprint={2311.16086},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2311.16086},
+  note={Workshop on Nonsmooth Optimization and Applications, NOPTA 2024; arXiv:2311.16086, 2023}
 }

@@ -3,11 +3,11 @@ title: "Methods with Local Steps and Random Reshuffling for Generally Smooth Non
 collection: publications
 permalink: /publication/L0L1FedRR
 excerpt: 'Yury Demidovich, Petr Ostroukhov, Grigory Malinovsky, Samuel Horváth, Martin Takáč, Peter Richtárik, Eduard Gorbunov'
-date: 2024-11-11
-venue: 'arXiv'
+date: 2025-04-24
+venue: "The 13th International Conference on Learning Representations (ICLR 2025)"
 ---
 
-[PDF](https://arxiv.org/pdf/2412.02781), [Cite](https://grigory-malinovsky.github.io/files/L0L1FedRR.txt), [arXiv](https://arxiv.org/abs/2412.02781)
+[PDF](https://arxiv.org/pdf/2412.02781), [Cite](https://grigory-malinovsky.github.io/files/L0L1FedRR.txt), [arXiv](https://arxiv.org/abs/2412.02781), [ICLR 2025](https://iclr.cc/virtual/2025/poster/29511)
 
 Abstract:
 ======

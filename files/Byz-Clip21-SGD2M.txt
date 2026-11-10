@@ -1,0 +1,9 @@
+@inproceedings{islamov2026byzclip21sgd2m,
+  title={Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions},
+  author={Islamov, Rustem and Malinovsky, Grigory and Gaponov, Alexander and Lucchi, Aurelien and Richt{\'a}rik, Peter and Gorbunov, Eduard},
+  booktitle={42st Conference on Uncertainty in Artificial Intelligence, UAI 2026},
+  year={2026},
+  eprint={2603.23472},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2603.23472}
+}

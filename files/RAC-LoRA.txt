@@ -1,6 +1,10 @@
-@article{malinovsky2024randomized,
+@inproceedings{malinovsky2024randomized,
   title={Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation},
   author={Malinovsky, Grigory and Michieli, Umberto and Hammoud, Hasan Abed Al Kader and Ceritli, Taha and Elesedy, Hayder and Ozay, Mete and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2410.08305},
-  year={2024}
+  booktitle={The 17th International OPT Workshop on Optimization for Machine Learning, NeurIPS Workshop 2025},
+  year={2025},
+  eprint={2410.08305},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/pdf/2410.08305},
+  note={Tiny Titans: The next wave of On-Device Learning for Foundational Models, ICML Workshop 2025; arXiv:2410.08305, 2024}
 }

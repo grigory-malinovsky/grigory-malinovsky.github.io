@@ -3,11 +3,11 @@ title: "Improving Accelerated Federated Learning with Compression and Importance
 collection: publications
 permalink: /publication/5GCS2
 excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
-date: 2023-06-05
-venue: 'arXiv'
+date: 2025-10-17
+venue: "International Conference on Computational Optimization (ICOMP 2025, Oral)"
 ---
 
-[PDF](https://arxiv.org/pdf/2306.03240.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs-2.txt), [arXiv](https://arxiv.org/abs/2306.03240), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io) 
+[PDF](https://arxiv.org/pdf/2306.03240.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs-2.txt), [arXiv](https://arxiv.org/abs/2306.03240), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io), [ICOMP 2025 (Oral)](https://icomp.cc)
 
 Abstract:
 ======

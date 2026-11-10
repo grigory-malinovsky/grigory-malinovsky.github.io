@@ -1,6 +1,13 @@
 @article{danilova2021averaged,
-  title={Averaged heavy-ball method},
+  title={Averaged Heavy-Ball Method},
   author={Danilova, Marina and Malinovsky, Grigory},
-  journal={arXiv preprint arXiv:2111.05430},
-  year={2021}
+  journal={Computer Research and Modeling},
+  year={2022},
+  volume={14},
+  number={2},
+  pages={277--308},
+  eprint={2111.05430},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2111.05430},
+  note={arXiv:2111.05430, 2021}
 }

@@ -1,0 +1,9 @@
+@inproceedings{sadiev2025efhessianmomentum,
+  title={Parameter-Agnostic Error Feedback Enhanced With Hessian-Corrected Momentum},
+  author={Sadiev, Abdurakhmon and Demidovich, Yury and Malinovsky, Grigory and Sokolov, Igor and Khirirat, Sarit and Richt{\'a}rik, Peter},
+  booktitle={The 17th International OPT Workshop on Optimization for Machine Learning, NeurIPS Workshop 2025},
+  year={2025},
+  eprint={2511.14501},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2511.14501}
+}

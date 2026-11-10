@@ -1,6 +1,10 @@
-@article{demidovich2024methods,
+@inproceedings{demidovich2024methods,
   title={Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization},
   author={Demidovich, Yury and Ostroukhov, Petr and Malinovsky, Grigory and Horv{\'a}th, Samuel and Tak{\'a}{\v{c}}, Martin and Richt{\'a}rik, Peter and Gorbunov, Eduard},
-  journal={arXiv preprint arXiv:2412.02781},
-  year={2024}
+  booktitle={The 13th International Conference on Learning Representations, ICLR 2025},
+  year={2025},
+  eprint={2412.02781},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2412.02781},
+  note={arXiv:2412.02781, 2024}
 }

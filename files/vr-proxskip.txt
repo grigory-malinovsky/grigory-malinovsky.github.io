@@ -1,6 +1,9 @@
-@article{malinovsky2022variance,
+@inproceedings{malinovsky2022variance,
   title={Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning},
   author={Malinovsky, Grigory and Yi, Kai and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2207.04338},
-  year={2022}
+  booktitle={36th Conference on Neural Information Processing Systems, NeurIPS 2022},
+  year={2022},
+  eprint={2207.04338},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2207.04338}
 }

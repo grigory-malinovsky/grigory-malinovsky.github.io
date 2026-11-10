@@ -1,6 +1,10 @@
-@article{malinovsky2022federated,
+@inproceedings{malinovsky2022federated,
   title={Federated Random Reshuffling with Compression and Variance Reduction},
   author={Malinovsky, Grigory and Richt{\'a}rik, Peter},
-  year={2022},
-  publisher={arXiv}
+  booktitle={International Workshop on Federated Learning for User Privacy and Data Confidentiality, ICML 2021},
+  year={2021},
+  eprint={2205.03914},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2205.03914},
+  note={arXiv:2205.03914, 2022}
 }

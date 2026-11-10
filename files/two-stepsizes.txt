@@ -1,6 +1,10 @@
-@article{malinovsky2022server,
+@inproceedings{malinovsky2022server,
   title={Server-Side Stepsizes and Sampling Without Replacement Provably Help in Federated Optimization},
   author={Malinovsky, Grigory and Mishchenko, Konstantin and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2201.11066},
-  year={2022}
+  booktitle={4th International Workshop on Distributed Machine Learning, DistributedML 2023},
+  year={2023},
+  eprint={2201.11066},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2201.11066},
+  note={NeurIPS 13th Annual Workshop on Optimization for Machine Learning, NeurIPS 2021; arXiv:2201.11066, 2022}
 }

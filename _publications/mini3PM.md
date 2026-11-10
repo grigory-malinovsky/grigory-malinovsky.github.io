@@ -7,7 +7,7 @@ date: 2024-01-06
 venue: 'The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)'
 ---
 
-[PDF](https://arxiv.org/abs/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/mini3PM.txt), [arXiv](https://arxiv.org/abs/2209.07883), [The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)](https://aaai.org/aaai-conference/) 
+[PDF](https://arxiv.org/pdf/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/mini3PM.txt), [arXiv](https://arxiv.org/abs/2209.07883), [The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)](https://aaai.org/aaai-conference/)
 
 Abstract:
 ======

@@ -1,0 +1,10 @@
+@inproceedings{shulgin2025privatefl,
+  title={First Provable Guarantees for Practical Private FL: Beyond Restrictive Assumptions},
+  author={Shulgin, Egor and Malinovsky, Grigory and Khirirat, Sarit and Richt{\'a}rik, Peter},
+  booktitle={The 17th International OPT Workshop on Optimization for Machine Learning, NeurIPS Workshop 2025},
+  year={2025},
+  eprint={2512.21521},
+  archivePrefix={arXiv},
+  url={https://www.arxiv.org/abs/2512.21521},
+  note={Tiny Titans: The next wave of On-Device Learning for Foundational Models, ICML Workshop 2025}
+}

@@ -3,11 +3,11 @@ title: "An Optimal Algorithm for Strongly Convex Min-min Optimization"
 collection: publications
 permalink: /publication/minmin
 excerpt: 'Dmitry Kovalev, Alexander Gasnikov, Grigory Malinovsky'
-date: 2023-01-29
-venue: 'arXiv'
+date: 2025-07-22
+venue: "The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)"
 ---
 
-[PDF](https://arxiv.org/pdf/2212.14439.pdf), [Cite](https://grigory-malinovsky.github.io/files/minmin.txt), [arXiv](https://arxiv.org/abs/2212.14439)
+[PDF](https://arxiv.org/pdf/2212.14439.pdf), [Cite](https://grigory-malinovsky.github.io/files/minmin.txt), [arXiv](https://arxiv.org/abs/2212.14439), [UAI 2025](https://www.auai.org/uai2025/)
 
 Abstract:
 ======

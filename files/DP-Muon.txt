@@ -1,0 +1,9 @@
+@article{gaponov2026dpmuon,
+  title={How Does Muon Work in Private Deep Learning? Scalable Differentially Private Training via Orthogonalization},
+  author={Gaponov, Alexander and Malinovsky, Grigory and Shulgin, Egor and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2610.24736},
+  year={2026},
+  eprint={2610.24736},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2610.24736v1}
+}

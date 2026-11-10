@@ -1,0 +1,9 @@
+@inproceedings{malinovsky2023federated,
+  title={Federated Learning with Regularized Client Participation},
+  author={Malinovsky, Grigory and Horv{\'a}th, Samuel and Burlachenko, Konstantin and Richt{\'a}rik, Peter},
+  booktitle={Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023},
+  year={2023},
+  eprint={2302.03662},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2302.03662}
+}

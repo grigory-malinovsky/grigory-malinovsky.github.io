@@ -1,6 +1,10 @@
-@article{sadiev2022federated,
+@inproceedings{sadiev2022federated,
   title={Federated Optimization Algorithms with Random Reshuffling and Gradient Compression},
   author={Sadiev, Abdurakhmon and Malinovsky, Grigory and Gorbunov, Eduard and Sokolov, Igor and Khaled, Ahmed and Burlachenko, Konstantin and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2206.07021},
-  year={2022}
+  booktitle={38th Conference on Neural Information Processing Systems, NeurIPS 2024},
+  year={2024},
+  eprint={2206.07021},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2206.07021},
+  note={Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023; arXiv:2206.07021, 2022}
 }

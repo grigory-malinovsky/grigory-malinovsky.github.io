@@ -1,6 +1,10 @@
 @article{tovmasyan2025revisiting,
   title={Revisiting Stochastic Proximal Point Methods: Generalized Smoothness and Similarity},
   author={Tovmasyan, Zhirayr and Malinovsky, Grigory and Condat, Laurent and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2502.03401},
-  year={2025}
+  journal={Journal of Nonlinear and Variational Analysis},
+  year={2026},
+  eprint={2502.03401},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2502.03401},
+  note={The 17th International OPT Workshop on Optimization for Machine Learning, NeurIPS Workshop 2025; arXiv:2502.03401, 2025}
 }

@@ -1,0 +1,9 @@
+@article{demidovich2026distanceawaremuon,
+  title={Distance-Aware Muon: Adaptive Step Scaling for Normalized Optimization},
+  author={Demidovich, Yury and Chakraborty, Abhishek and Malinovsky, Grigory and Nedi{\'c}, Angelia and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2605.18999},
+  year={2026},
+  eprint={2605.18999},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2605.18999}
+}

@@ -1,6 +1,10 @@
-@article{grudzien2023improving,
+@inproceedings{grudzien2023improving,
   title={Improving Accelerated Federated Learning with Compression and Importance Sampling},
   author={Grudzie{\'n}, Micha{\l} and Malinovsky, Grigory and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2306.03240},
-  year={2023}
+  booktitle={International Conference on Computational Optimization, Oral, ICOMP 2025},
+  year={2025},
+  eprint={2306.03240},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2306.03240},
+  note={Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023; arXiv:2306.03240, 2023}
 }

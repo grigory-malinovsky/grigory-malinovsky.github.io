@@ -1,6 +1,9 @@
-@article{mishchenko2022proxskip,
+@inproceedings{mishchenko2022proxskip,
   title={ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!},
   author={Mishchenko, Konstantin and Malinovsky, Grigory and Stich, Sebastian and Richt{\'a}rik, Peter},
-  journal={arXiv preprint arXiv:2202.09357},
-  year={2022}
+  booktitle={39th International Conference on Machine Learning, ICML 2022},
+  year={2022},
+  eprint={2202.09357},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2202.09357}
 }

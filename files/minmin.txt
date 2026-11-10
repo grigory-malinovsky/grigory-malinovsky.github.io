@@ -1,6 +1,10 @@
-@article{kovalev2022optimal,
+@inproceedings{kovalev2022optimal,
   title={An Optimal Algorithm for Strongly Convex Min-min Optimization},
   author={Kovalev, Dmitry and Gasnikov, Alexander and Malinovsky, Grigory},
-  journal={arXiv preprint arXiv:2212.14439},
-  year={2022}
+  booktitle={41st Conference on Uncertainty in Artificial Intelligence, UAI 2025},
+  year={2025},
+  eprint={2212.14439},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2212.14439},
+  note={arXiv:2212.14439, 2022}
 }

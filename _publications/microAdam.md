@@ -2,7 +2,7 @@
 title: "MicroAdam: Accurate Adaptive Optimization with Low Space Overhead and Provable Convergence"
 collection: publications
 permalink: /publication/MicroAdam
-excerpt: 'Ionut-Vlad Modoranu, Mher Safaryan, Grigory Malinovsky, Eldar Kurtic, Thomas Robert, Peter Richtarik, Dan Alistarh'
+excerpt: 'Ionut-Vlad Modoranu, Mher Safaryan, Grigory Malinovsky, Eldar Kurtic, Thomas Robert, Peter Richtárik, Dan Alistarh'
 date: 2024-06-01
 venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
 ---
