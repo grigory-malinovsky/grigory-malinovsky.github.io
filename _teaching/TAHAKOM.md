@@ -1,5 +1,5 @@
 ---
-title: "TAHAKOM Federated Learning course KAUST Fall 2023"
+title: "TAHAKOM Federated Learning course"
 collection: teaching
 type: "Graduate course, Teaching Assistance"
 permalink: /teaching/TAHAKOM

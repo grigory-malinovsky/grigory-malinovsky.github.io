@@ -1,5 +1,5 @@
 ---
-title: "[Optimization Methods](https://github.com/amkatrutsa/optimization-fivt)"
+title: "[Optimization Methods (DIHT)](https://github.com/amkatrutsa/optimization-fivt)"
 collection: teaching
 type: "Undergraduate course, Teaching Assistance"
 permalink: /teaching/OPT19

@@ -3,7 +3,7 @@ title: "Introduction to Optimization Aramco Master course"
 collection: teaching
 type: "Graduate course, Teaching Assistance"
 permalink: /teaching/Aramco
-venue: "KAUST, Fall"
+venue: "Saudi Aramco, Fall"
 date: 2022-09-01
 location: "Dammam, Saudi Arabia"
 ---

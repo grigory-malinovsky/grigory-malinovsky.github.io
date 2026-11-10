@@ -1,5 +1,5 @@
 ---
-title: "[Optimization and Applications 1](https://ozonmasters.ru/study/opt)"
+title: "[Convex Optimization](https://ozonmasters.ru/study/opt)"
 collection: teaching
 type: "Graduate course, Teaching Assistance"
 permalink: /teaching/ozonmasters1
