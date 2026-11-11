@@ -8,6 +8,8 @@ date: 2024-12-10
 end_date: 2024-12-15
 location: "Vancouver, Canada"
 selected: true
+selected_group: microadam
+selected_venue: "NeurIPS 2024"
 materials:
   - label: "Slides"
     url: "https://neurips.cc/media/neurips-2024/Slides/95023.pdf"

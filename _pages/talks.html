@@ -15,11 +15,12 @@ redirect_from:
 
 {% assign presentations = site.talks | sort: 'date' | reverse %}
 {% assign selected_presentations = presentations | where: 'selected', true %}
+{% assign selected_groups = selected_presentations | group_by: 'selected_group' %}
 
 <section class="presentations" aria-labelledby="selected-presentations">
   <h2 id="selected-presentations">Selected talks and posters</h2>
-  {% for post in selected_presentations %}
-    {% include archive-single-talk.html heading_level=3 %}
+  {% for group in selected_groups %}
+    {% include selected-presentation.html group=group %}
   {% endfor %}
 </section>
 

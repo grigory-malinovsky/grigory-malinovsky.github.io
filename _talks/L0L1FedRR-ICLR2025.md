@@ -8,6 +8,8 @@ date: 2025-04-24
 end_date: 2025-04-28
 location: "Singapore"
 selected: true
+selected_group: local-steps-random-reshuffling
+selected_venue: "ICLR 2025"
 materials:
   - label: "Poster"
     url: "https://iclr.cc/media/PosterPDFs/ICLR%202025/29511.png?t=1744971072.3544447"

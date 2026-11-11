@@ -1,0 +1,27 @@
+{% include base_path %}
+{% assign representative = include.group.items | first %}
+{% assign group_materials = '' | split: '' %}
+<div class="list__item">
+  <article class="selected-presentation">
+    <h3 class="selected-presentation__title">{{ representative.title | escape }}</h3>
+    <ul class="selected-presentation__events">
+      {% for event in include.group.items %}
+        <li>
+          <a href="{{ base_path }}{{ event.url }}" title="{{ event.title | escape }}">{{ event.selected_venue | default: event.venue | escape }}</a>
+          <span class="selected-presentation__details">&middot; {{ event.type | escape }} &middot; <time datetime="{{ event.date | date: '%Y-%m-%d' }}">{{ event.date | date: '%b %Y' }}</time></span>
+        </li>
+        {% if event.materials %}
+          {% assign group_materials = group_materials | concat: event.materials %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% assign group_materials = group_materials | uniq: 'url' %}
+    {% if group_materials.size > 0 %}
+      <p class="selected-presentation__materials">
+        {% for material in group_materials %}
+          <a href="{{ material.url | escape }}">{{ material.selected_label | default: material.label | escape }}</a>{% unless forloop.last %} &middot; {% endunless %}
+        {% endfor %}
+      </p>
+    {% endif %}
+  </article>
+</div>

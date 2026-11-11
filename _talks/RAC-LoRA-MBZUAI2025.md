@@ -7,6 +7,8 @@ venue: "MBZUAI Stats seminar"
 date: 2025-10-21
 location: "Abu Dhabi, UAE"
 selected: true
+selected_group: rac-lora
+selected_venue: "MBZUAI Stats seminar"
 materials:
   - label: "Related paper"
     url: "https://arxiv.org/abs/2410.08305"

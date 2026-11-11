@@ -7,6 +7,8 @@ venue: "USC CS Seminar"
 date: 2025-12-01
 location: "Los Angeles, USA"
 selected: true
+selected_group: byzantine-robustness
+selected_venue: "USC CS Seminar"
 materials:
   - label: "Related paper"
     url: "https://arxiv.org/abs/2311.14127"

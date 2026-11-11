@@ -7,6 +7,8 @@ venue: "Google Research Seminar (invited by Zachary Charles)"
 date: 2023-06-08
 location: "Online"
 selected: true
+selected_group: proxskip
+selected_venue: "Google Research Seminar"
 materials:
   - label: "ProxSkip paper"
     url: "https://arxiv.org/abs/2202.09357"

@@ -8,6 +8,8 @@ date: 2023-04-25
 end_date: 2023-04-27
 location: "Valencia, Spain"
 selected: true
+selected_group: client-sampling
+selected_venue: "AISTATS 2023"
 materials:
   - label: "Paper"
     url: "https://proceedings.mlr.press/v206/grudzien23a.html"

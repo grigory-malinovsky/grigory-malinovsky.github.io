@@ -8,11 +8,16 @@ date: 2024-12-10
 end_date: 2024-12-15
 location: "Vancouver, Canada"
 selected: true
+selected_group: byzantine-robustness
+selected_venue: "NeurIPS 2024"
 materials:
   - label: "Slides"
+    selected_label: "NeurIPS 2024 slides"
     url: "https://neurips.cc/media/neurips-2024/Slides/95924.pdf"
   - label: "Poster"
+    selected_label: "NeurIPS 2024 poster"
     url: "https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95924.png?t=1733348824.219423"
   - label: "Conference video"
+    selected_label: "NeurIPS 2024 video"
     url: "https://neurips.cc/virtual/2024/poster/95924"
 ---

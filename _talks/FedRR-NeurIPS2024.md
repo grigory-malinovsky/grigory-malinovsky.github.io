@@ -8,6 +8,8 @@ date: 2024-12-10
 end_date: 2024-12-15
 location: "Vancouver, Canada"
 selected: true
+selected_group: gradient-differences
+selected_venue: "NeurIPS 2024"
 materials:
   - label: "Conference video"
     url: "https://neurips.cc/virtual/2024/poster/96110"

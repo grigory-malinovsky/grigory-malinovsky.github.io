@@ -7,6 +7,8 @@ venue: "University of Zurich group seminar"
 date: 2026-08-19
 location: "Zurich, Switzerland"
 selected: true
+selected_group: byzantine-robustness
+selected_venue: "University of Zurich group seminar"
 materials:
   - label: "Related paper"
     url: "https://arxiv.org/abs/2311.14127"
