@@ -48,6 +48,11 @@
   }
 }
 
+/* Keep presentation titles at the existing archive size across heading levels. */
+.presentations .archive__item-title {
+  font-size: $type-size-4;
+}
+
 /* remove border*/
 .page__content {
 

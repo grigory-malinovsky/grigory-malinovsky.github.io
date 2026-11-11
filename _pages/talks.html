@@ -1,16 +1,37 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Presentations"
+permalink: /presentations/
 author_profile: true
+redirect_from:
+  - /talks/
 ---
 
+<p><a href="#selected-presentations">Selected talks and posters</a> &middot; <a href="#full-archive">Full archive</a></p>
+
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+  <p><a href="{{ '/talkmap.html' | relative_url }}">See a map of my presentations</a></p>
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% assign presentations = site.talks | sort: 'date' | reverse %}
+{% assign selected_presentations = presentations | where: 'selected', true %}
+
+<section class="presentations" aria-labelledby="selected-presentations">
+  <h2 id="selected-presentations">Selected talks and posters</h2>
+  {% for post in selected_presentations %}
+    {% include archive-single-talk.html heading_level=3 %}
+  {% endfor %}
+</section>
+
+<section class="presentations" aria-labelledby="full-archive">
+  <h2 id="full-archive">Full archive</h2>
+  {% assign previous_year = '' %}
+  {% for post in presentations %}
+    {% assign year = post.date | date: '%Y' %}
+    {% if year != previous_year %}
+      <h3 class="archive__subtitle">{{ year }}</h3>
+      {% assign previous_year = year %}
+    {% endif %}
+    {% include archive-single-talk.html heading_level=4 %}
+  {% endfor %}
+</section>

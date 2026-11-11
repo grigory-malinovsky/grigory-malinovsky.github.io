@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/Server-side-Paris
 venue: "4th International Workshop on Distributed Machine Learning"
-date: 2023-12-8
+date: 2023-12-08
 location: "Paris, France"
 ---

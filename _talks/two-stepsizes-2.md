@@ -5,6 +5,8 @@ type: "Talk"
 permalink: /talks/two-stepsizes-2
 venue: "Federated Learning One World Seminar (FLOW)"
 date: 2022-04-06
-location: "online"
+location: "Online"
+materials:
+  - label: "Video"
+    url: "https://youtu.be/CQSTiB9KW8M"
 ---
-[Video](https://youtu.be/CQSTiB9KW8M)

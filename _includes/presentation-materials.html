@@ -1,0 +1,7 @@
+{% if include.presentation.materials.size > 0 %}
+  <p class="archive__item-excerpt presentation__materials">
+    {% for material in include.presentation.materials %}
+      <a href="{{ material.url | escape }}">{{ material.label | escape }}</a>{% unless forloop.last %} &middot; {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}

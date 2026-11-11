@@ -5,5 +5,8 @@ type: "Talk"
 permalink: /talks/ProxSkip-2
 venue: "All-Russian Optimization Seminar"
 date: 2022-04-20
-location: "online"
+location: "Online"
+materials:
+  - label: "Video"
+    url: "https://youtu.be/xL-q3WCi_EU"
 ---

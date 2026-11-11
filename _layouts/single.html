@@ -36,6 +36,9 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'talks' %}
+          <p>{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.location }}</p>
+          {% if page.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.end_date %} &ndash; <time datetime="{{ page.end_date | date_to_xmlschema }}">{{ page.end_date | date: "%B %d, %Y" }}</time>{% endif %}</p>{% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -53,6 +56,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.collection == 'talks' %}{% include presentation-materials.html presentation=page %}{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
