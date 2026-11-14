@@ -6,13 +6,17 @@ excerpt: 'Grigory Malinovsky, Dmitry Kovalev, Elnur Gasanov, Laurent Condat, Pet
 date: 2020-07-13
 venue: 'The Thirty-seventh International Conference on Machine Learning (ICML 2020)'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2004.01442.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2004.01442"
+  - label: "PMLR 119"
+    url: "http://proceedings.mlr.press/v119/malinovskiy20a.html"
+  - label: "ICML 2020"
+    url: "https://icml.cc/virtual/2020/poster/6590"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/local.txt"
 ---
-[arXiv](https://arxiv.org/abs/2004.01442), [PMLR 119](http://proceedings.mlr.press/v119/malinovskiy20a.html), [ICML 2020](https://icml.cc/virtual/2020/poster/6590)
-
 
 Abstract:
 ======

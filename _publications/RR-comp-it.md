@@ -6,14 +6,16 @@ excerpt: 'Grigory Malinovsky, Peter Richtárik'
 date: 2021-07-24
 venue: "International Workshop on Federated Learning for User Privacy and Data Confidentiality (ICML 2021)"
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2205.03914.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2205.03914"
+  - label: "ICML 2021 workshop"
+    url: "https://fl-icml.github.io/2021/papers/FL-ICML21_paper_34.pdf"
+    title: "International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2021 (FL-ICML'21)"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/rr-comp-it.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2205.03914), [International Workshop on Federated Learning for User Privacy and Data Confidentiality
-in Conjunction with ICML 2021 (FL-ICML'21)](https://fl-icml.github.io/2021/papers/FL-ICML21_paper_34.pdf)
 
 Abstract:
 ======

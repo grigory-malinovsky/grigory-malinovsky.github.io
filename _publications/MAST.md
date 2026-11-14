@@ -6,13 +6,18 @@ excerpt: 'Yury Demidovich, Grigory Malinovsky, Egor Shulgin, Peter Richtárik'
 date: 2025-04-24
 venue: "The 13th International Conference on Learning Representations (ICLR 2025)"
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2311.16086.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2311.16086"
+  - label: "NOPTA 2024"
+    url: "https://sites.google.com/view/wnopta"
+    title: "Workshop on Nonsmooth Optimization and Applications, NOPTA 2024"
+  - label: "ICLR 2025"
+    url: "https://iclr.cc/virtual/2025/poster/28129"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/MAST.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2311.16086), [Workshop on Nonsmooth Optimization and Applications, NOPTA 2024](https://sites.google.com/view/wnopta), [ICLR 2025](https://iclr.cc/virtual/2025/poster/28129)
 
 Abstract:
 ======

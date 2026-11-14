@@ -6,13 +6,13 @@ excerpt: 'Yury Demidovich, Abhishek Chakraborty, Grigory Malinovsky, Angelia Ned
 date: 2026-05-18
 venue: 'arXiv'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2605.18999"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2605.18999"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/Distance-Aware-Muon.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2605.18999)
 
 Abstract:
 ======

@@ -6,13 +6,18 @@ excerpt: 'Abdurakhmon Sadiev, Grigory Malinovsky, Eduard Gorbunov, Igor Sokolov,
 date: 2024-10-01
 venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2206.07021"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2206.07021"
+  - label: "ICML 2023 workshop"
+    url: "https://fl-icml2023.github.io"
+    title: "Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023"
+  - label: "NeurIPS 2024"
+    url: "https://nips.cc/virtual/2024/poster/96110"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/fedrr-diana.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2206.07021), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io), [NeurIPS 2024](https://nips.cc/virtual/2024/poster/96110)
 
 Abstract:
 ======

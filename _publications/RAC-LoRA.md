@@ -6,15 +6,21 @@ excerpt: 'Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Tah
 date: 2025-12-06
 venue: "The 17th International OPT Workshop on Optimization for Machine Learning (NeurIPS Workshop 2025)"
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2410.08305"
-  - label: Code
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2410.08305"
+  - label: "Code"
     url: "https://github.com/hammoudhasan/RACLora"
-  - label: Cite
+  - label: "ICML 2025 workshop"
+    url: "https://ttodlerfm.gitlab.io/accepted-papers/"
+    title: "Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)"
+  - label: "OPT 2025"
+    url: "https://opt-ml.org/papers/2025/paper143.pdf"
+    title: "OPT 2025 (NeurIPS Workshop)"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/RAC-LoRA.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2410.08305), [Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)](https://ttodlerfm.gitlab.io/accepted-papers/), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper143.pdf)
 
 Abstract:
 ======

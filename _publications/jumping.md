@@ -6,13 +6,18 @@ excerpt: 'Grigory Malinovsky, Konstantin Mishchenko, Peter Richtárik'
 date: 2023-12-08
 venue: '4th International Workshop on Distributed Machine Learning (DistributedML 2023)'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2201.11066"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2201.11066"
+  - label: "OPT 2021"
+    url: "https://opt-ml.org/papers/2021/paper39.pdf"
+    title: "OPT2021: 13th Annual Workshop on Optimization for Machine Learning"
+  - label: "DistributedML 2023"
+    url: "https://distributedml.org"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/two-stepsizes.txt"
 ---
-[arXiv](https://arxiv.org/abs/2201.11066), [OPT2021: 13th Annual Workshop on Optimization for Machine Learning](https://opt-ml.org/papers/2021/paper39.pdf), [DistributedML 2023](https://distributedml.org)
-
 
 Abstract:
 ======

@@ -6,13 +6,16 @@ excerpt: 'Grigory Malinovsky, Kai Yi, Peter Richtárik'
 date: 2022-07-09
 venue: 'Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2207.04338.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2207.04338"
+  - label: "NeurIPS 2022"
+    url: "https://nips.cc/virtual/2022/poster/53291"
+    title: "Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/vr-proxskip.txt"
 ---
-[arXiv](https://arxiv.org/abs/2207.04338), [Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)](https://nips.cc/virtual/2022/poster/53291)
-
 
 Abstract:
 ======

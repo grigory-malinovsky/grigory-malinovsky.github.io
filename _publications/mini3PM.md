@@ -6,13 +6,16 @@ excerpt: 'Soumia Boucherouite, Grigory Malinovsky, Peter Richtárik, El Houcine 
 date: 2024-01-06
 venue: 'The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2209.07883.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2209.07883"
+  - label: "AAAI 2024"
+    url: "https://aaai.org/aaai-conference/"
+    title: "The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/mini3PM.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2209.07883), [The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)](https://aaai.org/aaai-conference/)
 
 Abstract:
 ======

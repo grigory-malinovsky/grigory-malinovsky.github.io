@@ -6,13 +6,13 @@ excerpt: 'Xun Qian, Alexander Gaponov, Grigory Malinovsky, Peter Richtárik'
 date: 2026-04-12
 venue: 'arXiv'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2604.10689"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2604.10689"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/Gluon-FL.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2604.10689)
 
 Abstract:
 ======

@@ -6,13 +6,16 @@ excerpt: 'Grigory Malinovsky, Samuel Horváth, Konstantin Burlachenko, Peter Ric
 date: 2023-02-7
 venue: "Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities (ICML Workshop 2023)"
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2302.03662.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2302.03662"
+  - label: "ICML 2023 workshop"
+    url: "https://fl-icml2023.github.io"
+    title: "Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/rr-cli.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2302.03662), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io)
 
 Abstract:
 ======

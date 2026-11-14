@@ -6,12 +6,16 @@ excerpt: 'Yury Demidovich, Grigory Malinovsky, Peter Richtárik'
 date: 2025-10-17
 venue: "International Conference on Computational Optimization (ICOMP 2025, Oral)"
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2403.06677.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2403.06677"
+  - label: "ICOMP 2025"
+    url: "https://icomp.cc"
+    title: "ICOMP 2025 (Oral)"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/RiemannianVR.txt"
 ---
-[arXiv](https://arxiv.org/abs/2403.06677), [ICOMP 2025 (Oral)](https://icomp.cc)
 
 Abstract:
 ======

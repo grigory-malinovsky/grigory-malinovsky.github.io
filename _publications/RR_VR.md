@@ -6,13 +6,19 @@ excerpt: 'Grigory Malinovsky, Alibek Sailanbayev, Peter Richtárik'
 date: 2023-01-12
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2104.09342.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2104.09342"
+  - label: "OPT 2021"
+    url: "https://opt-ml.org/papers/2021/paper30.pdf"
+    title: "OPT2021: 13th Annual Workshop on Optimization for Machine Learning"
+  - label: "UAI 2023"
+    url: "https://www.auai.org/uai2023/accepted_papers"
+    title: "39th Conference on Uncertainty in Artificial Intelligence (UAI 2023), spotlight"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/RR-VR.txt"
 ---
-[arXiv](https://arxiv.org/abs/2104.09342), [OPT2021: 13th Annual Workshop on Optimization for Machine Learning](https://opt-ml.org/papers/2021/paper30.pdf), [39th Conference on Uncertainty in Artificial Intelligence (UAI 2023), spotlight](https://www.auai.org/uai2023/accepted_papers)
-
 
 Abstract:
 ======

@@ -6,13 +6,16 @@ excerpt: 'Marina Danilova, Grigory Malinovsky'
 date: 2022-04-09
 venue: 'Computer Research and Modeling'
 materials:
-  - label: Paper
+  - label: "Paper"
     url: "https://arxiv.org/pdf/2111.05430.pdf"
-  - label: Cite
+  - label: "arXiv"
+    url: "https://arxiv.org/abs/2111.05430"
+  - label: "Journal"
+    url: "http://crm-en.ics.org.ru/journal/article/3184/"
+    title: "Computer Research and Modeling"
+  - label: "Cite"
     url: "https://grigory-malinovsky.github.io/files/averaged_hb.txt"
 ---
-
-[arXiv](https://arxiv.org/abs/2111.05430), [Computer Research and Modeling](http://crm-en.ics.org.ru/journal/article/3184/)
 
 Abstract:
 ======
