@@ -7,3 +7,5 @@ venue: "Saudi Aramco, Fall"
 # The CV specifies the term only; this date is used for sorting.
 date: 2025-09-01
 ---
+
+Foundations of machine learning: using data to build models that recognize patterns and make predictions.

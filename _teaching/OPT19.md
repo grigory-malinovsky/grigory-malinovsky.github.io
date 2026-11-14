@@ -7,7 +7,5 @@ venue: "MIPT, Fall term"
 date: 2019-08-08
 location: "Moscow, Russia"
 ---
-Theory:
-Convex Sets and Functions, Optimality Conditions, Foundations of duality theory  
-Practice:
-Optimization Problem Statement, Methods for solving problems without restrictions, Methods for solving problems with simple constraints Linear programming, Cone Optimization Problems and SDP
+
+Convex sets and functions, optimality conditions, and duality, together with methods for constrained and unconstrained optimization. Topics include linear, conic, and semidefinite programming.

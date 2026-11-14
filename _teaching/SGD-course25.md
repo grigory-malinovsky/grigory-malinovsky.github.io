@@ -7,3 +7,5 @@ venue: "KAUST, Fall"
 # The CV specifies the term only; this date is used for sorting.
 date: 2025-09-01
 ---
+
+Convergence theory and algorithms for stochastic optimization in machine learning. Topics include variance reduction, sampling, acceleration, and distributed SGD with communication compression.

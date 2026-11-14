@@ -8,3 +8,4 @@ date: 2023-10-06
 location: "Thuwal, Saudi Arabia"
 ---
 
+Federated learning: collaborative model training across multiple participants while keeping their data local.

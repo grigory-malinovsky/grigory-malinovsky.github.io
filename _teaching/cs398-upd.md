@@ -8,6 +8,4 @@ date: 2022-07-01
 location: "Thuwal, Saudi Arabia"
 ---
 
-
-Graduate seminar focusing on special topics within the field.
-
+A graduate seminar exploring selected research topics in computer science.

@@ -7,3 +7,5 @@ venue: "Saudi Aramco, Summer"
 # The CV specifies the term only; this date is used for sorting.
 date: 2025-06-01
 ---
+
+Foundations of mathematical optimization: expressing problems through objectives and constraints, and using algorithms to find solutions.
