@@ -5,9 +5,14 @@ permalink: /publication/Byz-Clip21-SGD2M
 excerpt: 'Rustem Islamov, Grigory Malinovsky, Alexander Gaponov, Aurelien Lucchi, Peter Richtárik, Eduard Gorbunov'
 date: 2026-03-24
 venue: 'The 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2603.23472"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/Byz-Clip21-SGD2M.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2603.23472), [Cite](https://grigory-malinovsky.github.io/files/Byz-Clip21-SGD2M.txt), [arXiv](https://arxiv.org/abs/2603.23472), [UAI 2026](https://www.auai.org/uai2026/)
+[arXiv](https://arxiv.org/abs/2603.23472), [UAI 2026](https://www.auai.org/uai2026/)
 
 Abstract:
 ======

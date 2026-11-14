@@ -5,9 +5,14 @@ permalink: /publication/EF-Hessian-Momentum
 excerpt: 'Abdurakhmon Sadiev, Yury Demidovich, Grigory Malinovsky, Igor Sokolov, Sarit Khirirat, Peter Richtárik'
 date: 2025-11-18
 venue: 'The 17th Annual Workshop on Optimization for Machine Learning (OPT 2025, NeurIPS Workshop)'
+materials:
+  - label: Paper
+    url: "https://opt-ml.org/papers/2025/paper52.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/EF-Hessian-Momentum.txt"
 ---
 
-[PDF](https://opt-ml.org/papers/2025/paper52.pdf), [Cite](https://grigory-malinovsky.github.io/files/EF-Hessian-Momentum.txt), [arXiv](https://arxiv.org/abs/2511.14501), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper52.pdf)
+[arXiv](https://arxiv.org/abs/2511.14501), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper52.pdf)
 
 Abstract:
 ======

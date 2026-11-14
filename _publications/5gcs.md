@@ -5,9 +5,14 @@ permalink: /publication/5GCS
 excerpt: 'Michał Grudzień, Grigory Malinovsky, Peter Richtárik'
 date: 2023-01-29
 venue: 'The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2212.14370.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/5gcs.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2212.14370.pdf), [Cite](https://grigory-malinovsky.github.io/files/5gcs.txt), [arXiv](https://arxiv.org/abs/2212.14370), [The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)](https://aistats.org/aistats2023/accepted.html) 
+[arXiv](https://arxiv.org/abs/2212.14370), [The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)](https://aistats.org/aistats2023/accepted.html)
 
 Abstract:
 ======

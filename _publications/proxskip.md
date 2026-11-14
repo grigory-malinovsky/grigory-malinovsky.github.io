@@ -5,9 +5,16 @@ permalink: /publication/proxskip
 excerpt: 'Konstantin Mishchenko, Grigory Malinovsky, Sebastian Stich, Peter Richtárik'
 date: 2022-06-09
 venue: 'Thirty-ninth International Conference on Machine Learning (ICML 2022)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2202.09357.pdf"
+  - label: Code
+    url: "https://github.com/gsmalinovsky/ProxSkip-Public"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/proxskip.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2202.09357.pdf), [Cite](https://grigory-malinovsky.github.io/files/proxskip.txt), [arXiv](https://arxiv.org/abs/2202.09357), [ICML 2022](https://icml.cc/Conferences/2022/AcceptedPapersInitial) 
+[arXiv](https://arxiv.org/abs/2202.09357), [ICML 2022](https://icml.cc/Conferences/2022/AcceptedPapersInitial)
 
 Abstract:
 ======

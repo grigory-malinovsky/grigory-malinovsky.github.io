@@ -5,9 +5,14 @@ permalink: /publication/biased_SGD
 excerpt: 'Yury Demidovich, Grigory Malinovsky, Igor Sokolov, Peter Richtárik'
 date: 2023-12-12
 venue: "Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)"
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2305.16296.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/biasedSGD.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2305.16296.pdf), [Cite](https://grigory-malinovsky.github.io/files/biasedSGD.txt), [arXiv](https://arxiv.org/abs/2305.16296), [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/484d254ff80e99d543159440a06db0de-Abstract-Conference.html)
+[arXiv](https://arxiv.org/abs/2305.16296), [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/484d254ff80e99d543159440a06db0de-Abstract-Conference.html)
 
 Abstract:
 ======

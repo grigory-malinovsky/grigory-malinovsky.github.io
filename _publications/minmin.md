@@ -5,9 +5,14 @@ permalink: /publication/minmin
 excerpt: 'Dmitry Kovalev, Alexander Gasnikov, Grigory Malinovsky'
 date: 2025-07-22
 venue: "The 41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)"
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2212.14439.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/minmin.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2212.14439.pdf), [Cite](https://grigory-malinovsky.github.io/files/minmin.txt), [arXiv](https://arxiv.org/abs/2212.14439), [UAI 2025](https://www.auai.org/uai2025/)
+[arXiv](https://arxiv.org/abs/2212.14439), [UAI 2025](https://www.auai.org/uai2025/)
 
 Abstract:
 ======

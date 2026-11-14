@@ -5,9 +5,16 @@ permalink: /publication/RAC-LoRA
 excerpt: 'Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Ozay, Peter Richtárik'
 date: 2025-12-06
 venue: "The 17th International OPT Workshop on Optimization for Machine Learning (NeurIPS Workshop 2025)"
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2410.08305"
+  - label: Code
+    url: "https://github.com/hammoudhasan/RACLora"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/RAC-LoRA.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2410.08305), [Cite](https://grigory-malinovsky.github.io/files/RAC-LoRA.txt), [arXiv](https://arxiv.org/abs/2410.08305), [Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)](https://ttodlerfm.gitlab.io/accepted-papers/), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper143.pdf)
+[arXiv](https://arxiv.org/abs/2410.08305), [Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)](https://ttodlerfm.gitlab.io/accepted-papers/), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper143.pdf)
 
 Abstract:
 ======

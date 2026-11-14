@@ -5,9 +5,14 @@ permalink: /publication/Private-FL
 excerpt: 'Egor Shulgin, Grigory Malinovsky, Sarit Khirirat, Peter Richtárik'
 date: 2025-12-25
 venue: 'The 17th Annual Workshop on Optimization for Machine Learning (OPT 2025, NeurIPS Workshop)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2512.21521"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/Private-FL.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2512.21521), [Cite](https://grigory-malinovsky.github.io/files/Private-FL.txt), [arXiv](https://arxiv.org/abs/2512.21521), [Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)](https://ttodlerfm.gitlab.io/accepted-papers/), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper56.pdf)
+[arXiv](https://arxiv.org/abs/2512.21521), [Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)](https://ttodlerfm.gitlab.io/accepted-papers/), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper56.pdf)
 
 Abstract:
 ======

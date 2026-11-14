@@ -5,9 +5,14 @@ permalink: /publication/SPPM-phi
 excerpt: 'Zhirayr Tovmasyan, Grigory Malinovsky, Laurent Condat, Peter Richtárik'
 date: 2026-06-01
 venue: "Journal of Nonlinear and Variational Analysis (JNVA 2026)"
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2502.03401"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/sppm-phi.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2502.03401), [Cite](https://grigory-malinovsky.github.io/files/sppm-phi.txt), [arXiv](https://arxiv.org/abs/2502.03401), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper94.pdf), [JNVA 2026](http://jnva.biemdas.com)
+[arXiv](https://arxiv.org/abs/2502.03401), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper94.pdf), [JNVA 2026](http://jnva.biemdas.com)
 
 Abstract:
 ======

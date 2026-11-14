@@ -5,9 +5,18 @@ permalink: /publication/MicroAdam
 excerpt: 'Ionut-Vlad Modoranu, Mher Safaryan, Grigory Malinovsky, Eldar Kurtic, Thomas Robert, Peter Richtárik, Dan Alistarh'
 date: 2024-06-01
 venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2405.15593"
+  - label: Code
+    url: "https://github.com/IST-DASLab/MicroAdam"
+  - label: Slides
+    url: "https://neurips.cc/media/neurips-2024/Slides/95023.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/microadam.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2405.15593), [Cite](https://grigory-malinovsky.github.io/files/microadam.txt), [arXiv](https://arxiv.org/abs/2405.15593), [The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://nips.cc/virtual/2024/poster/95023) 
+[arXiv](https://arxiv.org/abs/2405.15593), [The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://nips.cc/virtual/2024/poster/95023)
 
 Abstract:
 ======

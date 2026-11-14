@@ -1,0 +1,5 @@
+{%- if include.entry.date_precision == 'month' -%}
+<time datetime="{{ include.entry.date | date: '%Y-%m' }}">{{ include.entry.date | date: '%B %Y' }}</time>
+{%- else -%}
+<time datetime="{{ include.entry.date | date_to_xmlschema }}">{{ include.entry.date | date: '%B %d, %Y' }}</time>
+{%- endif -%}

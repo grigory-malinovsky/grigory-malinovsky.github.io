@@ -5,9 +5,14 @@ permalink: /publication/DP-Muon
 excerpt: 'Alexander Gaponov, Grigory Malinovsky, Egor Shulgin, Peter Richtárik'
 date: 2026-10-17
 venue: 'arXiv'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2610.24736"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/DP-Muon.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2610.24736), [Cite](https://grigory-malinovsky.github.io/files/DP-Muon.txt), [arXiv](https://arxiv.org/abs/2610.24736)
+[arXiv](https://arxiv.org/abs/2610.24736)
 
 Abstract:
 ======

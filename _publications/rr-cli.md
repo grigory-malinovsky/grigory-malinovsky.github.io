@@ -5,9 +5,14 @@ permalink: /publication/FedLearn-PP
 excerpt: 'Grigory Malinovsky, Samuel Horváth, Konstantin Burlachenko, Peter Richtárik'
 date: 2023-02-7
 venue: "Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities (ICML Workshop 2023)"
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2302.03662.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/rr-cli.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2302.03662.pdf), [Cite](https://grigory-malinovsky.github.io/files/rr-cli.txt), [arXiv](https://arxiv.org/abs/2302.03662), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io)
+[arXiv](https://arxiv.org/abs/2302.03662), [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023](https://fl-icml2023.github.io)
 
 Abstract:
 ======

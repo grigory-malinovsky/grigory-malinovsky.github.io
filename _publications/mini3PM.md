@@ -5,9 +5,14 @@ permalink: /publication/Minibatch_Stochastic_Three_Points_Method
 excerpt: 'Soumia Boucherouite, Grigory Malinovsky, Peter Richtárik, El Houcine Bergou'
 date: 2024-01-06
 venue: 'The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2209.07883.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/mini3PM.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2209.07883.pdf), [Cite](https://grigory-malinovsky.github.io/files/mini3PM.txt), [arXiv](https://arxiv.org/abs/2209.07883), [The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)](https://aaai.org/aaai-conference/)
+[arXiv](https://arxiv.org/abs/2209.07883), [The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)](https://aaai.org/aaai-conference/)
 
 Abstract:
 ======

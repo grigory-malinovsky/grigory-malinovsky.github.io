@@ -5,9 +5,16 @@ permalink: /publication/Byz-MARINA-PP
 excerpt: 'Grigory Malinovsky, Peter Richtárik, Samuel Horváth, Eduard Gorbunov'
 date: 2024-10-15
 venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2311.14127.pdf"
+  - label: Slides
+    url: "https://neurips.cc/media/neurips-2024/Slides/95924.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/byz-Marina-PP.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2311.14127.pdf), [Cite](https://grigory-malinovsky.github.io/files/byz-Marina-PP.txt), [arXiv](https://arxiv.org/abs/2311.14127), [Privacy Regulation and Protection in Machine Learning Workshop at ICLR 2024](https://pml-workshop.github.io/iclr24/), [NeurIPS 2024](https://nips.cc/virtual/2024/poster/95924)
+[arXiv](https://arxiv.org/abs/2311.14127), [Privacy Regulation and Protection in Machine Learning Workshop at ICLR 2024](https://pml-workshop.github.io/iclr24/), [NeurIPS 2024](https://nips.cc/virtual/2024/poster/95924)
 
 Abstract:
 ======

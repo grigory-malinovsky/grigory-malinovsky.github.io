@@ -5,9 +5,14 @@ permalink: /publication/TAMUNA
 excerpt: 'Laurent Condat, Ivan Agarský, Grigory Malinovsky, Peter Richtárik'
 date: 2023-02-24
 venue: "International Workshop on Federated Learning in the Age of Foundation Models (FL@FM-NeurIPS 2023)"
+materials:
+  - label: Paper
+    url: "https://arxiv.org/pdf/2302.09832.pdf"
+  - label: Cite
+    url: "https://grigory-malinovsky.github.io/files/tamuna.txt"
 ---
 
-[PDF](https://arxiv.org/pdf/2302.09832.pdf), [Cite](https://grigory-malinovsky.github.io/files/tamuna.txt), [arXiv](https://arxiv.org/abs/2302.09832), [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)
+[arXiv](https://arxiv.org/abs/2302.09832), [FL@FM-NeurIPS’23](https://federated-learning.org/fl@fm-neurips-2023/)
 
 Abstract:
 ======
