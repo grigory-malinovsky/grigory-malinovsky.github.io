@@ -58,3 +58,10 @@ Dolgoprudny, Russia
 GPA: 4.73/5.0  
 Thesis: "Averaged Heavy Ball Method"  
 Advisor: [Boris Polyak](https://scholar.google.pk/citations?user=Zhlib28AAAAJ&hl=en)
+
+
+Academic Service
+======
+- **Reviewing:** ICML, NeurIPS, ICLR, AISTATS, Transactions on Machine Learning Research, and IEEE Transactions on Automatic Control.
+- **Program committees:** IEEE FLTA 2024 and federated learning workshops at ICML 2023 and NeurIPS 2022.
+- **Seminar organization:** OPT ML group seminar, 2022.

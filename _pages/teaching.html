@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 id="courses" class="archive__subtitle">Courses</h2>
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<section aria-labelledby="mentoring">
+  <h2 id="mentoring" class="archive__subtitle">Mentoring</h2>
+  <p>I have supervised or co-mentored students and interns on the following projects:</p>
+  <ul>
+    <li><strong>Zhirayr Tovmasyan</strong> &mdash; stochastic proximal point methods under generalized smoothness and similarity assumptions. <a href="{{ base_path }}/publication/SPPM-phi">JNVA 2026</a>.</li>
+    <li><strong>Michał Grudzień</strong> &mdash; accelerated federated learning with client sampling, compression, and importance sampling. <a href="{{ base_path }}/publication/5GCS">AISTATS 2023</a>; <a href="{{ base_path }}/publication/5GCS2">ICOMP 2025 (oral)</a>.</li>
+    <li><strong>Abdurakhmon Sadiev</strong> &mdash; compression and random reshuffling for federated learning. <a href="{{ base_path }}/publication/fedRR-diana">NeurIPS 2024</a>.</li>
+  </ul>
+</section>
