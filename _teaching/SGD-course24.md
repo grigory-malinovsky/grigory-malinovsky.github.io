@@ -1,7 +1,7 @@
 ---
 title: "Stochastic Gradient Descent Methods (CS 331)"
 collection: teaching
-type: "Graduate course, Teaching Assistance"
+type: "Graduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/CS331_24
 venue: "KAUST, Spring"
 date: 2024-04-02

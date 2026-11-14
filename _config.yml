@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Grigory Malinovsky"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Grigory Malinovsky"
+description              : &description "Postdoctoral researcher at EPFL working on optimization for machine learning, stochastic and adaptive methods, federated learning, privacy, and robustness."
 url                      : https://grigory-malinovsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VZSo_E8AAAAJ&hl=en&oi=ao"
-  email            : "g.s.malinovsky@gmail.com"
+  email            : "grigorii.malinovskii@epfl.ch"
   researchgate     : "https://www.researchgate.net/profile/Grigory-Malinovskiy"
   uri              :
   bitbucket        :
@@ -146,6 +146,14 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # Theme examples are retained in the repository but not published.
+  - _pages/archive-layout-with-content.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/portfolio.html
+  - _portfolio
+  - _posts/post.md
+  - _posts/test.md
 keep_files:
   - .git
   - .svn
@@ -241,7 +249,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 

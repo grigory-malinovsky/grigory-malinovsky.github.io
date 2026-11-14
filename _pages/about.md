@@ -13,11 +13,11 @@ Bio
 ======
 I am a postdoctoral researcher at EPFL, working with Prof. Volkan Cevher in [LIONS](https://www.epfl.ch/labs/lions/) on optimization for machine learning. I received my PhD in Applied Mathematics and Computational Sciences from King Abdullah University of Science and Technology (KAUST) in June 2026, advised by Prof. [Peter Richtárik](https://richtarik.org).
 
-My research interests include optimization for machine learning, distributed algorithms, federated learning, privacy and robustness, and deep learning.
+My research interests include optimization for machine learning, stochastic and adaptive methods, federated learning, and privacy and robustness.
 
 During my PhD, I worked as a Research Intern Engineer at Samsung R&D Institute UK from April to October 2024, focusing on optimization theory for large language models.
 
-My hobbies include fitness, martial arts, football, basketball, and drums.
+My hobbies include fitness, basketball, drums, and piano.
 
 
 Education

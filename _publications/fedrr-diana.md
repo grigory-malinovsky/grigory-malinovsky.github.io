@@ -1,5 +1,5 @@
 ---
-title: "Federated Optimization Algorithms with Random Reshuffling and Gradient Compression"
+title: "Don’t Compress Gradients in Random Reshuffling: Compress Gradient Differences"
 collection: publications
 permalink: /publication/fedRR-diana
 excerpt: 'Abdurakhmon Sadiev, Grigory Malinovsky, Eduard Gorbunov, Igor Sokolov, Ahmed Khaled, Konstantin Burlachenko, Peter Richtárik'

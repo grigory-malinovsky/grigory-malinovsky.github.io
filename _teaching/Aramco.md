@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Optimization Aramco Master course"
 collection: teaching
-type: "Graduate course, Teaching Assistance"
+type: "Graduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/Aramco
 venue: "Saudi Aramco, Fall"
 date: 2022-09-01

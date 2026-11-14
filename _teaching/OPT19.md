@@ -1,7 +1,7 @@
 ---
 title: "[Optimization Methods (DIHT)](https://github.com/amkatrutsa/optimization-fivt)"
 collection: teaching
-type: "Undergraduate course, Teaching Assistance"
+type: "Undergraduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/OPT19
 venue: "MIPT, Fall term"
 date: 2019-08-08

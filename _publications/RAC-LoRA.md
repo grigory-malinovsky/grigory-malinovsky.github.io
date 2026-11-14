@@ -3,8 +3,8 @@ title: "Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Fr
 collection: publications
 permalink: /publication/RAC-LoRA
 excerpt: 'Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Ozay, Peter Richtárik'
-date: 2024-10-15
-venue: 'ArXiv'
+date: 2025-12-06
+venue: "The 17th International OPT Workshop on Optimization for Machine Learning (NeurIPS Workshop 2025)"
 ---
 
 [PDF](https://arxiv.org/pdf/2410.08305), [Cite](https://grigory-malinovsky.github.io/files/RAC-LoRA.txt), [arXiv](https://arxiv.org/abs/2410.08305), [Tiny Titans: The next wave of On-Device Learning for Foundational Models (ICML Workshop 2025)](https://ttodlerfm.gitlab.io/accepted-papers/), [OPT 2025 (NeurIPS Workshop)](https://opt-ml.org/papers/2025/paper143.pdf)

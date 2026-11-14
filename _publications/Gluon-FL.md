@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Gluon-FL
 excerpt: 'Xun Qian, Alexander Gaponov, Grigory Malinovsky, Peter Richtárik'
 date: 2026-04-12
-venue: 'ArXiv'
+venue: 'arXiv'
 ---
 
 [PDF](https://arxiv.org/pdf/2604.10689), [Cite](https://grigory-malinovsky.github.io/files/Gluon-FL.txt), [arXiv](https://arxiv.org/abs/2604.10689)

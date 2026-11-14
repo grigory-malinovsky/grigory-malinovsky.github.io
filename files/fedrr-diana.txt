@@ -1,5 +1,5 @@
 @inproceedings{sadiev2022federated,
-  title={Federated Optimization Algorithms with Random Reshuffling and Gradient Compression},
+  title={Don’t Compress Gradients in Random Reshuffling: Compress Gradient Differences},
   author={Sadiev, Abdurakhmon and Malinovsky, Grigory and Gorbunov, Eduard and Sokolov, Igor and Khaled, Ahmed and Burlachenko, Konstantin and Richt{\'a}rik, Peter},
   booktitle={38th Conference on Neural Information Processing Systems, NeurIPS 2024},
   year={2024},

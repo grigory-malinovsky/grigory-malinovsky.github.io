@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Distance-Aware-Muon
 excerpt: 'Yury Demidovich, Abhishek Chakraborty, Grigory Malinovsky, Angelia Nedić, Peter Richtárik'
 date: 2026-05-18
-venue: 'ArXiv'
+venue: 'arXiv'
 ---
 
 [PDF](https://arxiv.org/pdf/2605.18999), [Cite](https://grigory-malinovsky.github.io/files/Distance-Aware-Muon.txt), [arXiv](https://arxiv.org/abs/2605.18999)
