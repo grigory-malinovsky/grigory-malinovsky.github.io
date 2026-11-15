@@ -1,0 +1,88 @@
+/* Research overview and topic pages use the existing theme palette. */
+.research-intro {
+  margin: 1.5em 0;
+  padding: 1em 1.25em;
+  border-left: 3px solid $link-color;
+  background: mix(#fff, $link-color, 95%);
+
+  h2 { margin: 0 0 0.6em; font-size: $type-size-4; }
+  p { margin: 0; }
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.1em;
+  margin: 1.5em 0;
+}
+
+.archive .research-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1em;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover { border-color: $link-color; text-decoration: none; }
+  &:focus { outline: 2px solid $link-color-hover; outline-offset: 3px; }
+  &:hover img { box-shadow: none; }
+
+  img { width: 100%; height: auto; margin-bottom: 0.7em; }
+  h3 { margin: 0 0 0.75em; font-size: $type-size-5; line-height: 1.4; }
+  p { margin: 0.75em 0 1.2em; font-size: 0.85em; }
+}
+
+.research-card__keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  li {
+    padding: 0.2em 0.45em;
+    margin: 0;
+    border-radius: 3px;
+    background: $code-background-color;
+    font-size: 0.7em;
+  }
+}
+
+.research-card__more { margin-top: auto; color: $link-color-hover; font-size: 0.8em; }
+.research-foundations { margin-top: 1.75em; }
+.research-topic__back { font-size: 0.85em; }
+.research-topic__intro {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 1.5em;
+  align-items: center;
+
+  img { width: 100%; height: auto; }
+}
+
+.research-papers { padding: 0; margin: 1em 0 1.5em; list-style: none; }
+.research-paper {
+  padding: 1em 0;
+  margin: 0;
+  border-bottom: 1px solid $border-color;
+
+  h3 { margin: 0 0 0.45em; font-size: $type-size-5; line-height: 1.5; }
+  p { margin: 0.35em 0; font-size: 0.85em; }
+  .research-paper__venue { color: $gray; }
+  .publication__materials { margin-top: 0.6em; }
+}
+
+@media (max-width: 60em) {
+  .research-grid { grid-template-columns: 1fr; }
+  .archive .research-card img { max-width: 280px; align-self: center; }
+}
+
+@media (max-width: 40em) {
+  .research-topic__intro { grid-template-columns: 1fr; }
+  .research-topic__intro img { max-width: 260px; justify-self: center; }
+  .research-intro { padding: 0.9em 1em; }
+}

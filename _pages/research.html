@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+<div class="research-overview">
+  <div class="research-intro">
+    <h2>Optimization for efficient and reliable learning</h2>
+    <p>I develop and analyze optimization algorithms for learning under communication, privacy, robustness, and memory constraints. My work connects convergence guarantees with distributed training, adaptive optimizers, and parameter-efficient fine-tuning.</p>
+  </div>
+
+  <h2 id="research-directions" class="archive__subtitle">Research directions</h2>
+  <div class="research-grid" aria-labelledby="research-directions">
+    {% for topic in site.data.research.themes %}
+      <a class="research-card" href="{{ base_path }}{{ topic.url }}" aria-labelledby="topic-{{ topic.id }}">
+        <img src="{{ base_path }}{{ topic.image }}" alt="" width="320" height="180">
+        <h3 id="topic-{{ topic.id }}">{{ topic.title | escape }}</h3>
+        <ul class="research-card__keywords" aria-label="Topics">
+          {% for keyword in topic.keywords %}<li>{{ keyword | escape }}</li>{% endfor %}
+        </ul>
+        <p>{{ topic.summary | escape }}</p>
+        <span class="research-card__more">Explore this topic <span aria-hidden="true">&rarr;</span></span>
+      </a>
+    {% endfor %}
+  </div>
+
+  <p class="research-foundations">Across these directions, I study the foundations of stochastic optimization, including convergence theory, variance reduction, and generalized smoothness.</p>
+  <p><a href="{{ base_path }}/publications/">View all publications</a></p>
+</div>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" role="img" aria-labelledby="title desc">
+  <title id="title">Privacy and robustness</title>
+  <desc id="desc">Clipped and noisy updates pass through a protected aggregation step; an outlier update is shown separately.</desc>
+  <rect width="320" height="180" rx="8" fill="#f7fafb"/>
+  <g font-family="Arial, sans-serif" font-size="11" fill="#494e52">
+    <g fill="none" stroke="#a9b8c0" stroke-width="2">
+      <path d="M65 48L137 70M65 90H130M65 132L137 110M190 90H254"/>
+      <path d="M160 28V52" stroke="#c17f76" stroke-dasharray="4 4"/>
+    </g>
+    <g fill="#dbeff4" stroke="#52adc8" stroke-width="2">
+      <circle cx="49" cy="48" r="16"/><circle cx="49" cy="90" r="16"/><circle cx="49" cy="132" r="16"/>
+      <path d="M160 51L191 65V94Q191 115 160 130Q129 115 129 94V65Z" fill="#fff"/>
+      <rect x="148" y="83" width="24" height="20" rx="3" fill="#dbeff4"/>
+      <path d="M153 83V77A7 7 0 0 1 167 77V83" fill="none"/>
+      <rect x="254" y="71" width="40" height="38" rx="5" fill="#fff"/>
+    </g>
+    <g fill="#36788b"><circle cx="44" cy="45" r="2"/><circle cx="53" cy="51" r="2"/><circle cx="46" cy="94" r="2"/><circle cx="54" cy="87" r="2"/><circle cx="44" cy="129" r="2"/><circle cx="53" cy="135" r="2"/></g>
+    <path d="M155 15L165 25M165 15L155 25" stroke="#c17f76" stroke-width="2"/>
+    <path d="M264 91L271 98L284 83" fill="none" stroke="#52adc8" stroke-width="3"/>
+    <text x="49" y="166" text-anchor="middle">Private updates</text>
+    <text x="210" y="153" text-anchor="middle">Robust aggregation</text></g>
+</svg>

@@ -1,0 +1,121 @@
+{
+  "themes": [
+    {
+      "id": "communication-efficient-learning",
+      "title": "Communication-Efficient Federated Learning",
+      "image": "/images/research/communication.svg",
+      "keywords": [
+        "Local training",
+        "Compression",
+        "Client sampling"
+      ],
+      "summary": "Learning across devices with fewer communication rounds and smaller messages.",
+      "paragraphs": [
+        "Communication is often a bottleneck when training a model across many devices. I study how local computation, compressed updates, and client sampling can reduce this cost while retaining convergence guarantees.",
+        "My work spans accelerated local training, random reshuffling, and compression, from ProxSkip and TAMUNA to communication-efficient methods for Muon-type optimizers."
+      ],
+      "focus": [
+        "Using local steps to reduce the number of communication rounds.",
+        "Combining compression with variance reduction and random reshuffling.",
+        "Supporting partial client participation in federated optimization."
+      ],
+      "papers": [
+        {
+          "url": "/publication/proxskip",
+          "note": "Uses local gradient steps to accelerate communication in federated optimization."
+        },
+        {
+          "url": "/publication/TAMUNA",
+          "note": "Combines local training, compression, and partial participation with convergence guarantees."
+        },
+        {
+          "url": "/publication/fedRR-diana",
+          "note": "Studies compressed gradient differences in methods based on random reshuffling."
+        },
+        {
+          "url": "/publication/Gluon-FL",
+          "note": "Analyzes compressed Muon-type methods for federated training."
+        }
+      ],
+      "url": "/research/communication-efficient-learning/"
+    },
+    {
+      "id": "privacy-and-robustness",
+      "title": "Privacy and Robustness",
+      "image": "/images/research/privacy.svg",
+      "keywords": [
+        "Differential privacy",
+        "Byzantine robustness",
+        "Clipping"
+      ],
+      "summary": "Protecting training data and learning reliably in the presence of faulty or malicious participants.",
+      "paragraphs": [
+        "Keeping data on local devices does not, by itself, guarantee privacy, and distributed training must also account for faulty or malicious participants. I develop optimization methods with differential privacy and Byzantine-robustness guarantees.",
+        "I study how clipping, robust aggregation, local updates, and partial participation interact with convergence. Recent work also examines differential privacy for orthogonalized optimizers used in deep learning."
+      ],
+      "focus": [
+        "Private federated learning with local updates and client sampling.",
+        "Byzantine-robust optimization under partial participation.",
+        "Understanding the effects of clipping and privacy noise on optimization."
+      ],
+      "papers": [
+        {
+          "url": "/publication/Byz-MARINA-PP",
+          "note": "Combines Byzantine robustness with partial client participation through gradient-difference clipping."
+        },
+        {
+          "url": "/publication/Private-FL",
+          "note": "Provides privacy and convergence guarantees while supporting local updates and partial participation."
+        },
+        {
+          "url": "/publication/Byz-Clip21-SGD2M",
+          "note": "Studies Byzantine robustness and differential privacy together under weaker assumptions."
+        },
+        {
+          "url": "/publication/DP-Muon",
+          "note": "Examines differentially private training with orthogonalized optimizer updates."
+        }
+      ],
+      "url": "/research/privacy-and-robustness/"
+    },
+    {
+      "id": "optimization-for-deep-learning",
+      "title": "Optimization for Deep Learning",
+      "image": "/images/research/deep-learning.svg",
+      "keywords": [
+        "Adaptive optimizers",
+        "Low-rank adaptation",
+        "Sparse training"
+      ],
+      "summary": "Understanding and improving optimizers for training and adapting neural networks.",
+      "paragraphs": [
+        "Training and adapting neural networks places demands on optimizer memory, update geometry, and parameter efficiency. I study algorithms that address these constraints alongside a theoretical analysis of their convergence.",
+        "This includes compressed adaptive optimizers, low-rank adaptation, sparsified training, and adaptive scaling for Muon. The aim is to connect practical training methods with a clearer understanding of when and why they converge."
+      ],
+      "focus": [
+        "Reducing the memory cost of adaptive optimization.",
+        "Analyzing low-rank adaptation and sparsified training.",
+        "Adapting step scales in normalized optimizers."
+      ],
+      "papers": [
+        {
+          "url": "/publication/MicroAdam",
+          "note": "Reduces adaptive-optimizer memory overhead through compression and error feedback."
+        },
+        {
+          "url": "/publication/RAC-LoRA",
+          "note": "Develops a convergence framework for randomized low-rank adaptation."
+        },
+        {
+          "url": "/publication/MAST",
+          "note": "Analyzes training formulations that sparsify both models and gradients."
+        },
+        {
+          "url": "/publication/Distance-Aware-Muon",
+          "note": "Studies adaptive step scaling for Muon and related normalized optimizers."
+        }
+      ],
+      "url": "/research/optimization-for-deep-learning/"
+    }
+  ]
+}

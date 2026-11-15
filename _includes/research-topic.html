@@ -1,0 +1,28 @@
+<div class="research-topic">
+  <p class="research-topic__back"><a href="{{ base_path }}/research/"><span aria-hidden="true">&larr;</span> Research directions</a></p>
+  <div class="research-topic__intro">
+    <div>{% for paragraph in include.topic.paragraphs %}<p>{{ paragraph | escape }}</p>{% endfor %}</div>
+    <img src="{{ base_path }}{{ include.topic.image }}" alt="" width="320" height="180">
+  </div>
+
+  <h2 class="archive__subtitle">Research focus</h2>
+  <ul>{% for focus in include.topic.focus %}<li>{{ focus | escape }}</li>{% endfor %}</ul>
+
+  <h2 id="selected-papers" class="archive__subtitle">Selected papers</h2>
+  <ul class="research-papers" aria-labelledby="selected-papers">
+    {% for selection in include.topic.papers %}
+      {% assign paper = site.publications | where: 'permalink', selection.url | first %}
+      {% if paper %}
+        <li class="research-paper">
+          <h3><a href="{{ base_path }}{{ paper.url }}">{{ paper.title | escape }}</a></h3>
+          <p class="research-paper__authors">{{ paper.excerpt | markdownify | strip_html | strip }}</p>
+          {% assign publication_year = paper.date | date: '%Y' %}
+          <p class="research-paper__venue">{{ paper.venue | escape }}{% unless paper.venue contains publication_year %} &middot; {{ publication_year }}{% endunless %}</p>
+          <p class="research-paper__note">{{ selection.note | escape }}</p>
+          {% include publication-materials.html publication=paper %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  <p><a href="{{ base_path }}/publications/">View all publications</a></p>
+</div>

@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Privacy and Robustness"
+permalink: /research/privacy-and-robustness/
+author_profile: true
+research_id: privacy-and-robustness
+---
+
+{% include base_path %}
+{% assign topic = site.data.research.themes | where: 'id', page.research_id | first %}
+{% include research-topic.html topic=topic %}
