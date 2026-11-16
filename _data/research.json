@@ -44,13 +44,7 @@
       ],
       "summary": "Protecting training data and learning reliably in the presence of faulty or malicious participants.",
       "paragraphs": [
-        "Keeping data on local devices does not, by itself, guarantee privacy, and distributed training must also account for faulty or malicious participants. I develop optimization methods with differential privacy and Byzantine-robustness guarantees.",
-        "I study how clipping, robust aggregation, local updates, and partial participation interact with convergence. Recent work also examines differential privacy for orthogonalized optimizers used in deep learning."
-      ],
-      "focus": [
-        "Private federated learning with local updates and client sampling.",
-        "Byzantine-robust optimization under partial participation.",
-        "Understanding the effects of clipping and privacy noise on optimization."
+        "I develop and analyze optimization algorithms with differential privacy and Byzantine robustness guarantees, studying how noise, clipping, and unreliable updates affect convergence."
       ],
       "papers": [
         {
@@ -83,13 +77,7 @@
       ],
       "summary": "Understanding and improving optimizers for training and adapting neural networks.",
       "paragraphs": [
-        "Training and adapting neural networks places demands on optimizer memory, update geometry, and parameter efficiency. I study algorithms that address these constraints alongside a theoretical analysis of their convergence.",
-        "This includes compressed adaptive optimizers, low-rank adaptation, sparsified training, and adaptive scaling for Muon. The aim is to connect practical training methods with a clearer understanding of when and why they converge."
-      ],
-      "focus": [
-        "Reducing the memory cost of adaptive optimization.",
-        "Analyzing low-rank adaptation and sparsified training.",
-        "Adapting step scales in normalized optimizers."
+        "I study the design and convergence of optimizers for neural networks, including adaptive methods and approaches that reduce memory and computation costs."
       ],
       "papers": [
         {
