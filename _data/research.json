@@ -11,13 +11,7 @@
       ],
       "summary": "Learning across devices with fewer communication rounds and smaller messages.",
       "paragraphs": [
-        "Communication is often a bottleneck when training a model across many devices. I study how local computation, compressed updates, and client sampling can reduce this cost while retaining convergence guarantees.",
-        "I study the trade-off between local computation and communication, and how to retain acceleration when only a subset of clients participates."
-      ],
-      "focus": [
-        "Using local steps to reduce the number of communication rounds.",
-        "Reducing the size of transmitted updates while preserving convergence guarantees.",
-        "Supporting partial client participation in federated optimization."
+        "I study the trade-off between communication and computation in federated optimization. This includes accelerated local training, compressed updates, and algorithms that support partial client participation."
       ],
       "papers": [
         {

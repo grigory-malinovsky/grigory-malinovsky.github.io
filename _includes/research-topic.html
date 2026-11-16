@@ -5,8 +5,10 @@
     <img src="{{ base_path }}{{ include.topic.image }}" alt="" width="320" height="180">
   </div>
 
-  <h2 class="archive__subtitle">Research focus</h2>
-  <ul>{% for focus in include.topic.focus %}<li>{{ focus | escape }}</li>{% endfor %}</ul>
+  {% if include.topic.focus.size > 0 %}
+    <h2 class="archive__subtitle">Research focus</h2>
+    <ul>{% for focus in include.topic.focus %}<li>{{ focus | escape }}</li>{% endfor %}</ul>
+  {% endif %}
 
   <h2 id="selected-papers" class="archive__subtitle">Selected papers</h2>
   <ul class="research-papers" aria-labelledby="selected-papers">
