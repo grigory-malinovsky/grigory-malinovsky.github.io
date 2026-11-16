@@ -77,7 +77,7 @@
       ],
       "summary": "Understanding and improving optimizers for training and adapting neural networks.",
       "paragraphs": [
-        "I develop and analyze optimizers for neural networks. Adaptive methods use information from previous steps to adjust the size or direction of updates. My work includes compression to reduce optimizer memory, sparse updates that change only a subset of parameters, and low-rank updates represented by smaller matrices. I study how these choices affect convergence and the computational cost of training."
+        "I develop and analyze optimization methods for neural networks, focusing on convergence and the computational cost of training. My work includes adaptive optimizers that use information from past iterations to adjust updates, as well as compression techniques that reduce optimizer memory. I also study sparse updates that modify only a subset of parameters and low-rank updates that represent parameter changes using smaller matrices."
       ],
       "papers": [
         {
