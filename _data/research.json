@@ -44,7 +44,7 @@
       ],
       "summary": "Protecting training data and learning reliably in the presence of faulty or malicious participants.",
       "paragraphs": [
-        "I study optimization methods with differential privacy and Byzantine robustness guarantees. Differential privacy limits what the training output can reveal about an individual's data, while Byzantine robustness addresses faulty or malicious client updates. Clipping bounds the size of updates, and robust aggregation limits the influence of unreliable clients. My work examines how these mechanisms, together with privacy noise, affect convergence in federated learning and deep learning."
+        "I study optimization methods with differential privacy and Byzantine robustness guarantees. Differential privacy limits what the training output can reveal about an individual's data, while Byzantine robustness addresses faulty or malicious client updates. My work examines how these requirements affect algorithm design and convergence in federated learning and deep learning."
       ],
       "papers": [
         {
