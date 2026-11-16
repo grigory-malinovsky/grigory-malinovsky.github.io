@@ -11,7 +11,7 @@
       ],
       "summary": "Learning across devices with fewer communication rounds and smaller messages.",
       "paragraphs": [
-        "I study the trade-off between communication and computation in federated optimization. This includes accelerated local training, compressed updates, and algorithms that support partial client participation."
+        "I study local updates, communication compression, and partial client participation in federated optimization. Local updates let clients perform several optimization steps before communicating. Compression reduces the amount of data exchanged, while partial participation means that only a subset of clients contributes in each round. My work examines how these mechanisms affect convergence and the trade-off between communication and computation."
       ],
       "papers": [
         {
@@ -44,7 +44,7 @@
       ],
       "summary": "Protecting training data and learning reliably in the presence of faulty or malicious participants.",
       "paragraphs": [
-        "I develop and analyze optimization algorithms with differential privacy and Byzantine robustness guarantees, studying how noise, clipping, and unreliable updates affect convergence."
+        "I study optimization methods with differential privacy and Byzantine robustness guarantees. Differential privacy limits what the training output can reveal about an individual's data, while Byzantine robustness addresses faulty or malicious client updates. Clipping bounds the size of updates, and robust aggregation limits the influence of unreliable clients. My work examines how these mechanisms, together with privacy noise, affect convergence in federated learning and deep learning."
       ],
       "papers": [
         {
@@ -77,7 +77,7 @@
       ],
       "summary": "Understanding and improving optimizers for training and adapting neural networks.",
       "paragraphs": [
-        "I study the design and convergence of optimizers for neural networks, including adaptive methods and approaches that reduce memory and computation costs."
+        "I develop and analyze optimizers for neural networks. Adaptive methods use information from previous steps to adjust the size or direction of updates. My work includes compression to reduce optimizer memory, sparse updates that change only a subset of parameters, and low-rank updates represented by smaller matrices. I study how these choices affect convergence and the computational cost of training."
       ],
       "papers": [
         {
