@@ -9,7 +9,7 @@
         "Compression",
         "Client sampling"
       ],
-      "summary": "Learning across devices with fewer communication rounds and smaller messages.",
+      "summary": "I study how devices can train a shared model while exchanging less information.",
       "paragraphs": [
         "I study how to train a shared machine learning model when data are spread across many devices. Exchanging information between devices can be slow and costly, so my work explores ways to let them do more work locally and communicate less. I develop and analyze methods that account for differences in their data and for devices that cannot always participate."
       ],
@@ -42,7 +42,7 @@
         "Byzantine robustness",
         "Clipping"
       ],
-      "summary": "Protecting training data and learning reliably in the presence of faulty or malicious participants.",
+      "summary": "I develop methods that protect sensitive training data and handle faulty or malicious participants.",
       "paragraphs": [
         "My research focuses on protecting sensitive data and making training less vulnerable to faulty or malicious participants. I develop methods that limit the information a model reveals about individuals and reduce the impact of incorrect or deliberately misleading information. I also study how these protections affect the learning process."
       ],
@@ -75,7 +75,7 @@
         "Low-rank adaptation",
         "Sparse training"
       ],
-      "summary": "Understanding and improving optimizers for training and adapting neural networks.",
+      "summary": "I study the algorithms used to train neural networks and how to improve their speed and memory use.",
       "paragraphs": [
         "I study how the choice of training algorithm affects the way neural networks learn. My work combines the design of new methods with mathematical analysis of their behavior. I focus on understanding how quickly they improve a model and how much memory and computation they need."
       ],
