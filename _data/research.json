@@ -12,11 +12,11 @@
       "summary": "Learning across devices with fewer communication rounds and smaller messages.",
       "paragraphs": [
         "Communication is often a bottleneck when training a model across many devices. I study how local computation, compressed updates, and client sampling can reduce this cost while retaining convergence guarantees.",
-        "My work spans accelerated local training, random reshuffling, and compression, from ProxSkip and TAMUNA to communication-efficient methods for Muon-type optimizers."
+        "I study the trade-off between local computation and communication, and how to retain acceleration when only a subset of clients participates."
       ],
       "focus": [
         "Using local steps to reduce the number of communication rounds.",
-        "Combining compression with variance reduction and random reshuffling.",
+        "Reducing the size of transmitted updates while preserving convergence guarantees.",
         "Supporting partial client participation in federated optimization."
       ],
       "papers": [
@@ -25,16 +25,16 @@
           "note": "Uses local gradient steps to accelerate communication in federated optimization."
         },
         {
-          "url": "/publication/TAMUNA",
-          "note": "Combines local training, compression, and partial participation with convergence guarantees."
+          "url": "/publication/5GCS",
+          "note": "Extends accelerated local training to support client sampling."
         },
         {
           "url": "/publication/fedRR-diana",
           "note": "Studies compressed gradient differences in methods based on random reshuffling."
         },
         {
-          "url": "/publication/Gluon-FL",
-          "note": "Analyzes compressed Muon-type methods for federated training."
+          "url": "/publication/VR-ProxSkip",
+          "note": "Studies how variance reduction can lower total training cost when local computation is expensive."
         }
       ],
       "url": "/research/communication-efficient-learning/"

@@ -71,7 +71,11 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
+      {% if page.collection == 'posts' %}
+        <p class="page__meta"><a href="{{ base_path }}/year-archive/">&larr; Back to News</a></p>
+      {% else %}
+        {% include post_pagination.html %}
+      {% endif %}
     </div>
 
     {% if site.comments.provider and page.comments %}
