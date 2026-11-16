@@ -11,7 +11,7 @@ redirect_from:
 
 Bio
 ======
-I am a postdoctoral researcher at EPFL, working with Prof. [Volkan Cevher](https://scholar.google.com/citations?user=hlWhzU8AAAAJ) in [LIONS](https://www.epfl.ch/labs/lions/) on optimization for machine learning. I received my PhD in Applied Mathematics and Computational Sciences from King Abdullah University of Science and Technology (KAUST) in June 2026, advised by Prof. [Peter Richtárik](https://richtarik.org).
+I am a postdoctoral researcher at EPFL, working with Prof. [Volkan Cevher](https://scholar.google.com/citations?user=hlWhzU8AAAAJ&hl=en) in [LIONS](https://www.epfl.ch/labs/lions/) on optimization for machine learning. I received my PhD in Applied Mathematics and Computational Sciences from King Abdullah University of Science and Technology (KAUST) in June 2026, advised by Prof. [Peter Richtárik](https://richtarik.org).
 
 My research focuses on optimization theory and algorithm design for machine learning. My work connects stochastic and adaptive methods with communication-efficient federated learning, privacy guarantees, and robustness to unreliable participants.
 
