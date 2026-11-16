@@ -1,6 +1,7 @@
 ---
 title: "[Graduate Seminar (CS 398)](https://registrar-programguide.kaust.edu.sa/2021-2022/Program-Guide/Courses/CS-Computer-Science/300/CS-398)"
 collection: teaching
+course_id: cs398
 type: "Graduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/CS398-spring
 venue: "KAUST, Spring"

@@ -1,6 +1,7 @@
 ---
 title: "[Convex Optimization](https://ozonmasters.ru/study/opt)"
 collection: teaching
+course_id: convex-optimization
 type: "Graduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/ozonmasters1
 venue: "Ozon Masters, Spring"

@@ -1,0 +1,14 @@
+/* Group repeated semesters without changing other archive pages. */
+.teaching-course {
+  margin: 1.5em 0;
+
+  .archive__item-title {
+    margin: 0 0 0.4em;
+    font-size: $type-size-5;
+    line-height: 1.4;
+  }
+
+  &__description p { margin: 0.4em 0; font-size: 0.9em; }
+  &__details, &__terms { margin: 0.35em 0; font-size: 0.85em; }
+  &__terms a { white-space: nowrap; }
+}

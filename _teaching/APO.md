@@ -1,6 +1,8 @@
 ---
 title: "Physics Tutor"
 collection: teaching
+course_id: physics-tutoring
+period: "2017–2019"
 type: "Tutoring"
 permalink: /teaching/APO
 venue: "Physics Olympiads and Tests"

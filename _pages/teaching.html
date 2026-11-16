@@ -9,8 +9,10 @@ author_profile: true
 
 <h2 id="courses" class="archive__subtitle">Courses</h2>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign offerings = site.teaching | sort: 'date' | reverse %}
+{% assign courses = offerings | group_by: 'course_id' %}
+{% for group in courses %}
+  {% include teaching-course.html group=group %}
 {% endfor %}
 
 <section aria-labelledby="mentoring">

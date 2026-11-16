@@ -1,0 +1,12 @@
+{% assign course = include.group.items | first %}
+{% assign course_title = course.title | markdownify | strip_html | strip %}
+<article class="teaching-course" aria-labelledby="course-{{ include.group.name }}">
+  <h3 id="course-{{ include.group.name }}" class="archive__item-title"><a href="{{ base_path }}{{ course.url }}">{{ course_title | escape }}</a></h3>
+  <div class="teaching-course__description">{{ course.excerpt | markdownify }}</div>
+  <p class="teaching-course__details">{{ course.venue | split: ', ' | first | escape }} &middot; {{ course.type | escape }}</p>
+  <p class="teaching-course__terms"><strong>{% if course.period %}Period:{% else %}Semesters:{% endif %}</strong>
+    {% for offering in include.group.items %}
+      <a href="{{ base_path }}{{ offering.url }}">{% if offering.period %}{{ offering.period | escape }}{% else %}{{ offering.venue | split: ', ' | last | remove: ' term' | escape }} {{ offering.date | date: '%Y' }}{% endif %}</a>{% unless forloop.last %} &middot;{% endunless %}
+    {% endfor %}
+  </p>
+</article>

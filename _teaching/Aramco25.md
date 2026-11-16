@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Optimization Aramco Master course"
 collection: teaching
+course_id: aramco-optimization
 type: "Graduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/Aramco_25
 venue: "Saudi Aramco, Summer"

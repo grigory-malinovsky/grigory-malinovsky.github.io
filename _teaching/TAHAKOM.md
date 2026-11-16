@@ -1,6 +1,7 @@
 ---
 title: "TAHAKOM Federated Learning course"
 collection: teaching
+course_id: tahakom-federated-learning
 type: "Graduate course, Teaching Assistant / Seminar Instructor"
 permalink: /teaching/TAHAKOM
 venue: "KAUST, Fall"

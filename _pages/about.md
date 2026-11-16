@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
+{% include base_path %}
+
 Bio
 ======
 I am a postdoctoral researcher at EPFL, working with Prof. [Volkan Cevher](https://scholar.google.com/citations?user=hlWhzU8AAAAJ&hl=en) in [LIONS](https://www.epfl.ch/labs/lions/) on optimization for machine learning. I received my PhD in Applied Mathematics and Computational Sciences from King Abdullah University of Science and Technology (KAUST) in June 2026, advised by Prof. [Peter Richtárik](https://richtarik.org).
 
-My research focuses on optimization theory and algorithm design for machine learning. My work connects stochastic and adaptive methods with communication-efficient federated learning, privacy guarantees, and robustness to unreliable participants.
+My research focuses on optimization theory and algorithm design for machine learning. I work on [communication-efficient federated learning]({{ base_path }}/research/communication-efficient-learning/), [privacy and robustness]({{ base_path }}/research/privacy-and-robustness/), and [optimization for deep learning]({{ base_path }}/research/optimization-for-deep-learning/).
 
 During my PhD, I worked as a Research Intern Engineer at Samsung R&D Institute UK from April to October 2024, focusing on optimization theory for large language models.
 
@@ -22,7 +24,6 @@ My hobbies include fitness, basketball, drums, and piano.
 
 Recent news
 ======
-{% include base_path %}
 <ul class="recent-news">
 {% for post in site.posts limit:3 %}
   <li><strong>{% include news-date.html entry=post %}</strong> &mdash; {{ post.summary | default: post.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
@@ -34,30 +35,20 @@ Recent news
 
 Education
 ======
-PhD in Applied Mathematics and Computational Sciences  
-[Computer, Electrical and Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa)  
-[King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en)  
-Jan. 2022 -- Jun. 2026  
-Thuwal, Saudi Arabia  
-Thesis: "Theoretical Foundations of Communication-Efficient, Robust, and Practical Distributed and Federated Optimization"  
+**PhD in Applied Mathematics and Computational Sciences**<br>
+[KAUST](https://www.kaust.edu.sa/en) · Jan. 2022 – Jun. 2026<br>
 Advisor: [Peter Richtárik](https://richtarik.org)
 
-MS in Applied Mathematics and Computational Sciences  
-[Computer, Electrical and Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa)  
-[King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en)  
-Aug. 2020 -- Dec. 2021  
-Thuwal, Saudi Arabia  
-GPA: 3.83/4.0  
+**MS in Applied Mathematics and Computational Sciences**<br>
+[KAUST](https://www.kaust.edu.sa/en) · Aug. 2020 – Dec. 2021<br>
 Advisor: [Peter Richtárik](https://richtarik.org)
 
-BS in Applied Mathematics and Physics  
-[Department of Control and Applied Mathematics](https://mipt.ru/english/edu/departments/dcam)  
-[Moscow Institute of Physics and Technology](https://mipt.ru/english/)  
-Sept. 2014 -- Jul. 2019  
-Dolgoprudny, Russia  
-GPA: 4.73/5.0  
-Thesis: "Averaged Heavy Ball Method"  
+**BS in Applied Mathematics and Physics**<br>
+[MIPT](https://mipt.ru/english/) · Sept. 2014 – Jul. 2019<br>
 Advisor: [Boris Polyak](https://scholar.google.pk/citations?user=Zhlib28AAAAJ&hl=en)
+
+{% assign cv_link = site.data.navigation.main | where: 'title', 'CV' | first %}
+Further details are available in my [CV]({{ base_path }}{{ cv_link.url }}).
 
 
 Academic Service
