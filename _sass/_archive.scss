@@ -53,6 +53,10 @@
   font-size: $type-size-4;
 }
 
+.presentations .archive__item:hover .archive__item-title {
+  text-decoration: none;
+}
+
 /* Selected presentations group repeat visits under one compact heading. */
 .selected-presentation {
   margin: 1.4em 0;

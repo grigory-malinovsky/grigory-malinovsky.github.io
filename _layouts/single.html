@@ -73,6 +73,8 @@ layout: default
 
       {% if page.collection == 'posts' %}
         <p class="page__meta"><a href="{{ base_path }}/year-archive/">&larr; Back to News</a></p>
+      {% elsif page.collection == 'talks' %}
+        <p class="page__meta"><a href="{{ base_path }}/presentations/#full-archive">&larr; Back to Presentations</a></p>
       {% else %}
         {% include post_pagination.html %}
       {% endif %}
